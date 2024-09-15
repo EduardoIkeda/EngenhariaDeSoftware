@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FD4v-XKM7ofNKTseiCUrAA" name=",_IDMOcHOwEe-jLfuzoi0aVA" guid="-FD4v-XKM7ofNKTseiCUrAA">
+  <sections xmi:id="_Q5Xk8HOwEe-jLfuzoi0aVA" name="Criar diagramas de casos de uso detalhando a interação do cidadão com o sistema (agendamento, cancelamento, verificação de especialidades)." guid="_Q5Xk8HOwEe-jLfuzoi0aVA"/>
+  <sections xmi:id="_Rp1YkHOwEe-jLfuzoi0aVA" name="Desenvolver diagramas de classe representando as entidades principais do sistema, como cidadãos, consultas e especialidades." guid="_Rp1YkHOwEe-jLfuzoi0aVA"/>
+  <sections xmi:id="_SJoS8HOwEe-jLfuzoi0aVA" name="Criar diagramas de sequência para representar o fluxo de marcação e cancelamento de consultas." guid="_SJoS8HOwEe-jLfuzoi0aVA"/>
+</org.eclipse.epf.uma:TaskDescription>

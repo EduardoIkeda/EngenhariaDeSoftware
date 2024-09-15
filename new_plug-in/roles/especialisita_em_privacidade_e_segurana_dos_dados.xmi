@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zs0tMDi-_ImlkKVO_OPbig" name="new_role,_LC9IAHOsEe-G4e_3lKQBog" guid="-zs0tMDi-_ImlkKVO_OPbig" changeDate="2024-09-15T18:49:12.367-0300">
+  <mainDescription>Atua para garantir que o sistema siga a LGPD, implementando criptografia, controle de acesso e monitoramento de segurança.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

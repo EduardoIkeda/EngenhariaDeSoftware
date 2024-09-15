@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fxymqT3jy5blqoKXioRDrw" name=",_LMq9UHOvEe-G4e_3lKQBog" guid="-fxymqT3jy5blqoKXioRDrw">
+  <sections xmi:id="_OYdj4HOvEe-G4e_3lKQBog" name="Realizar workshops com representantes da secretaria de saúde e especialistas do SUS para definir os requisitos." guid="_OYdj4HOvEe-G4e_3lKQBog"/>
+  <sections xmi:id="_P6-fgHOvEe-G4e_3lKQBog" name="Identificar os fluxos de trabalho do cidadão no sistema de saúde e as penalizações por falta de comparecimento." guid="_P6-fgHOvEe-G4e_3lKQBog"/>
+  <sections xmi:id="_RH5loHOvEe-G4e_3lKQBog" name="Definir os requisitos de conformidade com a LGPD para proteção dos dados dos cidadãos." guid="_RH5loHOvEe-G4e_3lKQBog"/>
+  <sections xmi:id="_RsJiMHOvEe-G4e_3lKQBog" name="Identificar APIs ou sistemas do governo para verificar o cadastro dos cidadãos no SUS." guid="_RsJiMHOvEe-G4e_3lKQBog"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x4Q48yaLS-VfIvFXi0uctg" name="new_artifact,_Ftks0HOuEe-G4e_3lKQBog" guid="-x4Q48yaLS-VfIvFXi0uctg" changeDate="2024-09-15T19:02:07.354-0300">
+  <mainDescription>Inclui marcos importantes como integração com o SUS, testes de conformidade com a LGPD e prazos de entrega.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

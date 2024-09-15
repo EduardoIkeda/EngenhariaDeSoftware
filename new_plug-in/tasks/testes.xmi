@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nnOj3HKLl7cnFuAKKtPlqQ" name=",_kegYgHOwEe-jLfuzoi0aVA" guid="-nnOj3HKLl7cnFuAKKtPlqQ">
+  <sections xmi:id="_l15CMHOwEe-jLfuzoi0aVA" name="Realizar testes de usabilidade para garantir que o sistema seja acessível para todos os usuários, inclusive aqueles com pouca experiência tecnológica." guid="_l15CMHOwEe-jLfuzoi0aVA"/>
+  <sections xmi:id="_mi4EAHOwEe-jLfuzoi0aVA" name="Implementar testes de integração com o sistema do SUS, garantindo que a verificação de cadastro funcione corretamente." guid="_mi4EAHOwEe-jLfuzoi0aVA"/>
+  <sections xmi:id="_nc-UwHOwEe-jLfuzoi0aVA" name="Executar testes de segurança para garantir a conformidade com a LGPD, incluindo verificação de criptografia e controles de acesso." guid="_nc-UwHOwEe-jLfuzoi0aVA"/>
+</org.eclipse.epf.uma:TaskDescription>

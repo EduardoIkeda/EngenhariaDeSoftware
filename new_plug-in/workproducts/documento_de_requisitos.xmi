@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JG1Itehc6slSZV3ijvh0MA" name="new_artifact,_VjvwwHOtEe-G4e_3lKQBog" guid="-JG1Itehc6slSZV3ijvh0MA" changeDate="2024-09-15T18:59:06.328-0300">
+  <mainDescription>Detalha requisitos funcionais e não funcionais.&lt;br />&#xD;
+Inclui requisitos de conformidade com o SUS, como a verificação de cadastro no SUS e a penalização por falta de&#xD;
+comparecimento.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

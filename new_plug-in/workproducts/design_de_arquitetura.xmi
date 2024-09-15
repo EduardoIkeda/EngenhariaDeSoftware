@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tPSVXnpkTAzWoq-0renUQg" name="new_artifact,_5e6XkHOtEe-G4e_3lKQBog" guid="-tPSVXnpkTAzWoq-0renUQg" changeDate="2024-09-15T19:00:35.251-0300">
+  <mainDescription>Define a arquitetura do sistema, com módulos para marcação, cancelamento, verificação de consultas, integração com o SUS e&#xD;
+interface de administração.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

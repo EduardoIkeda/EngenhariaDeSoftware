@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-di4DQPjCKmWgWUpn_kzBKw" name="new_artifact,_udI2wHOuEe-G4e_3lKQBog" guid="-di4DQPjCKmWgWUpn_kzBKw" changeDate="2024-09-15T19:07:15.294-0300">
+  <mainDescription>Relatórios que documentam como o sistema atende às exigências legais.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eh150BtojtieZmnvp-f-gA" name="new_role,_0FBMoHOrEe-G4e_3lKQBog" guid="-eh150BtojtieZmnvp-f-gA" changeDate="2024-09-15T18:45:34.387-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-3b5dabdb-7fff-eb64-58ef-7e932865e43d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial,sans-serif; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Constrói as funcionalidades do sistema, desde a interface até a lógica de backend, incluindo integração com APIs do&#xD;
+SUS.&lt;/span>&lt;/b></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

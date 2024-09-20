@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-heWIW4m9jiA8laaU3Phc4w" name="new_role,_m8hG0HdEEe-dfotIMd8GfA" guid="-heWIW4m9jiA8laaU3Phc4w" changeDate="2024-09-20T08:36:50.567-0300">
+  <mainDescription>O desenvolvedor frontend mobile cria interfaces para aplicativos móveis em diversas plataformas, como Android e iOS. Ele&#xD;
+utiliza frameworks e ferramentas como React Native, Flutter, ou desenvolvimento nativo para garantir que os aplicativos&#xD;
+móveis sejam responsivos, rápidos e proporcionem uma experiência agradável ao usuário. Trabalha em colaboração com&#xD;
+designers e desenvolvedores backend para integrar serviços e funcionalidades.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <skills>Linguagens e frameworks mobile (Swift, Kotlin, React Native, Flutter)&lt;br />&#xD;
+UI/UX mobile, Integração de APIs, Publicação de apps (App Store, Google Play), Debugging e profiling de apps móveis,&#xD;
+Conhecimento de guidelines de design mobile</skills>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-je0alG6FSqQlnoB43XVM9w" name="new_role,_4ixNgHOvEe-jLfuzoi0aVA" guid="-je0alG6FSqQlnoB43XVM9w" changeDate="2024-09-15T19:15:03.910-0300">
-  <mainDescription>Responsável por verificar o andamento do projeto e dar feedbacks.</mainDescription>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-je0alG6FSqQlnoB43XVM9w" name="new_role,_4ixNgHOvEe-jLfuzoi0aVA" guid="-je0alG6FSqQlnoB43XVM9w" changeDate="2024-09-20T08:34:52.233-0300">
+  <mainDescription>O cliente ou representante do governo define os objetivos e expectativas do projeto, fornecendo feedback e aprovações nas&#xD;
+entregas. Ele é responsável por garantir que o produto final esteja de acordo com as necessidades da organização ou das&#xD;
+regulamentações governamentais e atua como um facilitador entre a equipe do projeto e a alta direção ou outras partes&#xD;
+interessadas.</mainDescription>
+  <skills>Habilidades de comunicação clara e eficaz, Capacidade de gestão de expectativas e negociação, Conhecimento do negócio ou&#xD;
+regulamentações aplicáveis, Definição de escopo e priorização de funcionalidades, Feedback construtivo</skills>
 </org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xHxJ-dRLCtDtrfmkLOohNA" name=",_risOcHdJEe-dfotIMd8GfA" guid="-xHxJ-dRLCtDtrfmkLOohNA" changeDate="2024-09-20T09:13:36.213-0300">
+  <mainDescription>Esta tarefa envolve a atualização contínua do quadro Kanban, refletindo o progresso das tarefas e garantindo que a equipe&#xD;
+tenha uma visão clara do fluxo de trabalho. O responsável deve mover as tarefas pelas colunas apropriadas (por exemplo, &quot;A&#xD;
+fazer&quot;, &quot;Em progresso&quot;, &quot;Concluído&quot;) e ajustar prazos ou prioridades quando necessário. É fundamental para garantir que o&#xD;
+time esteja alinhado com os status das entregas e prazos.</mainDescription>
+  <sections xmi:id="_xp0kwHdJEe-dfotIMd8GfA" name="Revisar o status atual das tarefas no quadro Kanban." guid="_xp0kwHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_yGAKcHdJEe-dfotIMd8GfA" name="Mover as tarefas para as colunas adequadas com base no progresso." guid="_yGAKcHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_yimm4HdJEe-dfotIMd8GfA" name="Adicionar novas tarefas ou remover tarefas concluídas." guid="_yimm4HdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_y_y5MHdJEe-dfotIMd8GfA" name="Atualizar prazos e prioridades conforme necessário." guid="_y_y5MHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_za_ncHdJEe-dfotIMd8GfA" name="Revisar o quadro com a equipe durante as reuniões de acompanhamento." guid="_za_ncHdJEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

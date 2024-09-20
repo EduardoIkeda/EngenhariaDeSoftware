@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-C6OtVzWpylO1RErT7xkg_w" name=",__W_U0HdIEe-dfotIMd8GfA" guid="-C6OtVzWpylO1RErT7xkg_w" changeDate="2024-09-20T09:08:21.397-0300">
+  <mainDescription>Nesta tarefa, o responsável cria histórias de usuários a partir dos requisitos levantados e define as tarefas que a equipe&#xD;
+de desenvolvimento precisará executar para atender a essas histórias. O foco está em descrever o valor para o usuário, a&#xD;
+funcionalidade esperada, e dividir o trabalho em pequenas etapas que possam ser facilmente gerenciadas e rastreadas no&#xD;
+desenvolvimento.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_ELXCwHdJEe-dfotIMd8GfA" name="Revisar os requisitos e as necessidades do cliente." guid="_ELXCwHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_FmbSkHdJEe-dfotIMd8GfA" name="Escrever as histórias de usuário com base nas funcionalidades desejadas." guid="_FmbSkHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_GZjYoHdJEe-dfotIMd8GfA" name="Definir as tarefas derivadas para cada história de usuário." guid="_GZjYoHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_HKJvIHdJEe-dfotIMd8GfA" name="Priorizar e organizar as histórias e tarefas em um backlog.New Step" guid="_HKJvIHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_HMQn8HdJEe-dfotIMd8GfA" name="Revisar com a equipe e stakeholders." guid="_HMQn8HdJEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

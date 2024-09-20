@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6knAVu4-mNIx3Jz592LrzA" name="definir_estrutura_do_banco_de_dados,_UzI3cHVTEe-2VIVyHbGXOA" guid="-6knAVu4-mNIx3Jz592LrzA">
+  <mainDescription>Definir o esquema do banco de dados, incluindo tabelas, relacionamentos e restrições, garantindo que ele suporte os&#xD;
+requisitos funcionais e não funcionais do sistema.</mainDescription>
+  <sections xmi:id="_pe44wHdLEe-dfotIMd8GfA" name="Revisar os requisitos de dados." guid="_pe44wHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_qFSxcHdLEe-dfotIMd8GfA" name="Definir entidades e atributos." guid="_qFSxcHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_qfJb4HdLEe-dfotIMd8GfA" name="Criar diagramas de entidade-relacionamento (ER)." guid="_qfJb4HdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_rLK0YHdLEe-dfotIMd8GfA" name="Definir relacionamentos e integridade referencial." guid="_rLK0YHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_rl3MUHdLEe-dfotIMd8GfA" name="Validar o design com a equipe de desenvolvimento." guid="_rl3MUHdLEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_yCAzWkoWO3VnqVoW-satQ" name=",_Z68TIHOwEe-jLfuzoi0aVA" guid="-_yCAzWkoWO3VnqVoW-satQ">
-  <sections xmi:id="_cAOkoHOwEe-jLfuzoi0aVA" name="Estabelecer as fases de coleta de requisitos, design, desenvolvimento, integração com o SUS, testes e lançamento." guid="_cAOkoHOwEe-jLfuzoi0aVA"/>
-  <sections xmi:id="_cvVtYHOwEe-jLfuzoi0aVA" name="Criar um gráfico de Gantt com marcos importantes, como a fase de integração com o SUS e a conformidade com a LGPD." guid="_cvVtYHOwEe-jLfuzoi0aVA"/>
-  <sections xmi:id="_dXeEYHOwEe-jLfuzoi0aVA" name="Prever iterações para refinamento com base no feedback de usuários e correções de falhas." guid="_dXeEYHOwEe-jLfuzoi0aVA"/>
-</org.eclipse.epf.uma:TaskDescription>

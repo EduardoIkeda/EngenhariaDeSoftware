@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WVSuxYUr8Ii7fQmJO2y_QQ" name="desenvolver_front_end_web,_iteEUHVTEe-2VIVyHbGXOA" guid="-WVSuxYUr8Ii7fQmJO2y_QQ">
+  <mainDescription>Criar a interface web que permite aos usuários interagir com o sistema através de navegadores. A interface deve ser&#xD;
+responsiva, fácil de usar e funcionar bem em diversos dispositivos e tamanhos de tela.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_Znuy0HdLEe-dfotIMd8GfA" name="Definir a arquitetura do front end web." guid="_Znuy0HdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_Z9WdgHdLEe-dfotIMd8GfA" name="Implementar o design das páginas." guid="_Z9WdgHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_aYN0kHdLEe-dfotIMd8GfA" name="Conectar o front end com o back end através de APIs." guid="_aYN0kHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_bFBQMHdLEe-dfotIMd8GfA" name="Implementar a navegação e interações." guid="_bFBQMHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_bl03MHdLEe-dfotIMd8GfA" name="Testar em diferentes navegadores e dispositivos." guid="_bl03MHdLEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

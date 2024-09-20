@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-k0P1YJ0sc_KiomUFVAIMFg" name=",_eQnS4HOwEe-jLfuzoi0aVA" guid="-k0P1YJ0sc_KiomUFVAIMFg">
-  <sections xmi:id="_iWdt8HOwEe-jLfuzoi0aVA" name="Implementar as funcionalidades de marcação, remarcação e cancelamento de consultas." guid="_iWdt8HOwEe-jLfuzoi0aVA"/>
-  <sections xmi:id="_jAuL4HOwEe-jLfuzoi0aVA" name="Desenvolver a integração com a API do SUS para verificação automática de cadastro." guid="_jAuL4HOwEe-jLfuzoi0aVA"/>
-  <sections xmi:id="_jtTlEHOwEe-jLfuzoi0aVA" name="Implementar as regras de penalização para os cidadãos que não comparecem às consultas." guid="_jtTlEHOwEe-jLfuzoi0aVA"/>
-</org.eclipse.epf.uma:TaskDescription>

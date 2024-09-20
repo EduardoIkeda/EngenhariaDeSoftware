@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RuVyxpf3NJktYZdd7CPYPg" name="manutencao_do_sistema,_oL-IwHOwEe-jLfuzoi0aVA" guid="-RuVyxpf3NJktYZdd7CPYPg">
-  <sections xmi:id="_q0LhIHOwEe-jLfuzoi0aVA" name="Criar um plano de manutenção contínua para corrigir falhas e adaptar o sistema a mudanças nas políticas do SUS." guid="_q0LhIHOwEe-jLfuzoi0aVA"/>
-  <sections xmi:id="_ra470HOwEe-jLfuzoi0aVA" name="Implementar um sistema de monitoramento de desempenho para garantir a disponibilidade do serviço." guid="_ra470HOwEe-jLfuzoi0aVA"/>
-  <sections xmi:id="_r7yCYHOwEe-jLfuzoi0aVA" name="Realizar atualizações periódicas para manter a segurança e a conformidade com a LGPD." guid="_r7yCYHOwEe-jLfuzoi0aVA"/>
-</org.eclipse.epf.uma:TaskDescription>

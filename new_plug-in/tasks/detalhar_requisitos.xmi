@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N5D2OJmoSWP_R2pyV0eaRw" name=",_QPqiIHdJEe-dfotIMd8GfA" guid="-N5D2OJmoSWP_R2pyV0eaRw">
+  <mainDescription>A tarefa de detalhamento de requisitos envolve a decomposição dos requisitos gerais do projeto em requisitos específicos e&#xD;
+mensuráveis. Esse detalhamento é essencial para garantir que todos os stakeholders tenham uma compreensão clara do que será&#xD;
+desenvolvido e como o sistema deverá funcionar. Além dos requisitos funcionais, é necessário incluir também os requisitos&#xD;
+não funcionais, como desempenho, segurança e usabilidade.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_TsZuwHdJEe-dfotIMd8GfA" name="Coletar informações dos stakeholders e revisar os requisitos iniciais." guid="_TsZuwHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_UOiLcHdJEe-dfotIMd8GfA" name="Documentar os requisitos funcionais (o que o sistema faz)." guid="_UOiLcHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_W84oEHdJEe-dfotIMd8GfA" name="Documentar os requisitos não funcionais (como o sistema faz)." guid="_W84oEHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_XgdPMHdJEe-dfotIMd8GfA" name="Revisar e validar os requisitos com os stakeholders." guid="_XgdPMHdJEe-dfotIMd8GfA"/>
+  <sections xmi:id="_YMUPoHdJEe-dfotIMd8GfA" name="Atualizar a documentação conforme necessário." guid="_YMUPoHdJEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

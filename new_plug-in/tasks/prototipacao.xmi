@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iZUtLebRVy0N3lRds4RKjQ" name=",_UltT0HOwEe-jLfuzoi0aVA" guid="-iZUtLebRVy0N3lRds4RKjQ">
-  <sections xmi:id="_XmY2kHOwEe-jLfuzoi0aVA" name="Criar wireframes de baixa fidelidade para validar os fluxos de navegação e interações com o usuário." guid="_XmY2kHOwEe-jLfuzoi0aVA"/>
-  <sections xmi:id="_YY7t0HOwEe-jLfuzoi0aVA" name="Desenvolver protótipos interativos de alta fidelidade usando ferramentas como Figma ou Adobe XD." guid="_YY7t0HOwEe-jLfuzoi0aVA"/>
-  <sections xmi:id="_ZD1sAHOwEe-jLfuzoi0aVA" name="Testar os protótipos com usuários reais, especialmente cidadãos com diferentes perfis (ex.: idosos, pessoas com deficiência visual)." guid="_ZD1sAHOwEe-jLfuzoi0aVA"/>
-</org.eclipse.epf.uma:TaskDescription>

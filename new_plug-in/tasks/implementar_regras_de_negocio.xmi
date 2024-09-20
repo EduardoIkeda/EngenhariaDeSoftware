@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_QCtDoF9RzsoIsu48zxTnw" name="implementar_regras_de_negocio,_rC9IkHVTEe-2VIVyHbGXOA" guid="-_QCtDoF9RzsoIsu48zxTnw" changeDate="2024-09-20T09:23:01.108-0300">
+  <mainDescription>&lt;p>&#xD;
+    Traduzir as regras de negócio identificadas na fase de requisitos para a lógica de programação. Essas regras são o&#xD;
+    núcleo do sistema, garantindo que ele se comporte de acordo com os objetivos do cliente.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_G-owwHdLEe-dfotIMd8GfA" name="Revisar os requisitos funcionais." guid="_G-owwHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_HfmIwHdLEe-dfotIMd8GfA" name="Definir as regras de negócio em detalhes." guid="_HfmIwHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_IBvzkHdLEe-dfotIMd8GfA" name="Implementar as regras no back end." guid="_IBvzkHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_IZ-GUHdLEe-dfotIMd8GfA" name="Testar a implementação." guid="_IZ-GUHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_I1Oe8HdLEe-dfotIMd8GfA" name="Validar com base nos cenários reais de uso." guid="_I1Oe8HdLEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

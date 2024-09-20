@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4ZGzcc9Y0jFgWTsSxFlZkg" name="definir_diagrama_de_caso_de_uso,_kbfsYHVTEe-2VIVyHbGXOA" guid="-4ZGzcc9Y0jFgWTsSxFlZkg" changeDate="2024-09-20T09:31:32.107-0300">
+  <mainDescription>Criar um diagrama que representa as interações dos usuários com o sistema, mapeando as principais funcionalidades e atores&#xD;
+envolvidos. Serve como base para o desenvolvimento e testes.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_RVpLYHdMEe-dfotIMd8GfA" name="Revisar os requisitos funcionais." guid="_RVpLYHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_RyZ_4HdMEe-dfotIMd8GfA" name="Identificar atores e suas interações." guid="_RyZ_4HdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_SSIBwHdMEe-dfotIMd8GfA" name="Definir os casos de uso principais." guid="_SSIBwHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_Sy6aoHdMEe-dfotIMd8GfA" name="Criar o diagrama." guid="_Sy6aoHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_TP1nMHdMEe-dfotIMd8GfA" name="Revisar com a equipe e stakeholders." guid="_TP1nMHdMEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

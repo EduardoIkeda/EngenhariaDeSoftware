@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1OraCOPTpppvlD6hOH6t_g" name="new_role,_B0P8wHOsEe-G4e_3lKQBog" guid="-1OraCOPTpppvlD6hOH6t_g" changeDate="2024-09-15T18:47:09.200-0300">
-  <mainDescription>Desenha as interfaces do sistema, garantindo acessibilidade para diferentes perfis de usuários.</mainDescription>
-</org.eclipse.epf.uma:RoleDescription>

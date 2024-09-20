@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0PneZOHRIjmu6igJC-jyXA" name="integrar_front_end_e_back_end,_semAIHVTEe-2VIVyHbGXOA" guid="-0PneZOHRIjmu6igJC-jyXA" changeDate="2024-09-20T09:21:52.896-0300">
+  <mainDescription>Esta tarefa envolve conectar a interface de usuário desenvolvida no front end com a API do sistema, garantindo que as&#xD;
+requisições enviadas pelo front end sejam corretamente processadas pelo back end e que as respostas sejam exibidas&#xD;
+adequadamente na interface.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_7P4qoHdKEe-dfotIMd8GfA" name="Configurar o cliente HTTP no front end (ex.: Axios, Fetch)." guid="_7P4qoHdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_7qC3EHdKEe-dfotIMd8GfA" name="Criar funções para chamar os endpoints da API." guid="_7qC3EHdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_8IEP0HdKEe-dfotIMd8GfA" name="Integrar as chamadas da API aos componentes de interface." guid="_8IEP0HdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_8kpeIHdKEe-dfotIMd8GfA" name="Tratar erros e estados de carregamento." guid="_8kpeIHdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_8_TZ0HdKEe-dfotIMd8GfA" name="Testar o fluxo completo de dados entre o front end e o back end." guid="_8_TZ0HdKEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

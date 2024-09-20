@@ -55,8 +55,13 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__LRk2HOqEe-G4e_3lKQBog" name="StandardCategories" guid="__LRk2HOqEe-G4e_3lKQBog"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__LRk2XOqEe-G4e_3lKQBog" name="CustomCategories" guid="__LRk2XOqEe-G4e_3lKQBog">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__LRk2nOqEe-G4e_3lKQBog" name="Hidden" guid="__LRk2nOqEe-G4e_3lKQBog">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="__LRk23OqEe-G4e_3lKQBog" name="Custom Categories" guid="__LRk23OqEe-G4e_3lKQBog"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="__LRk23OqEe-G4e_3lKQBog" name="Custom Categories" guid="__LRk23OqEe-G4e_3lKQBog" categorizedElements="_MDrvQHdcEe-w1cg-aAwHDA"/>
           </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_MDrvQHdcEe-w1cg-aAwHDA" name="new_custom_category" guid="_MDrvQHdcEe-w1cg-aAwHDA" presentationName="new_custom_category">
+            <methodElementProperty xmi:id="_NEJGsHdcEe-w1cg-aAwHDA" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_Pt0esHdcEe-w1cg-aAwHDA" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_HOnM0HdTEe-xsKmB8SyOHQ#_HOnM0XdTEe-xsKmB8SyOHQ"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__LRk3HOqEe-G4e_3lKQBog" name="CoreContent" guid="__LRk3HOqEe-G4e_3lKQBog">

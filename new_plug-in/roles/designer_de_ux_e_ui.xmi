@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QzoZTtnz9wo1fmo-4AbUWA" name="designer_de_ux_e_ui,_c4hbYHOsEe-G4e_3lKQBog" guid="-QzoZTtnz9wo1fmo-4AbUWA" changeDate="2024-09-15T18:50:44.523-0300">
-  <mainDescription>Desenvolve protótipos e realiza testes de usabilidade com o usuário.</mainDescription>
-</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B40MTZvWFL4Pf1rps5Ketw" name="new_role,_ok4KQHOrEe-G4e_3lKQBog" guid="-B40MTZvWFL4Pf1rps5Ketw" changeDate="2024-09-20T08:32:22.119-0300">
+  <mainDescription>O analista de requisitos atua como ponte entre os stakeholders e a equipe técnica. Ele coleta as necessidades e&#xD;
+expectativas do cliente, traduzindo-as em requisitos claros e detalhados que orientam o desenvolvimento do sistema. Seu&#xD;
+trabalho envolve realizar entrevistas, reuniões, e elaborar documentos que descrevem o comportamento e funcionalidades do&#xD;
+software.</mainDescription>
+  <skills>Habilidades de comunicação e entrevistas, Conhecimento de técnicas de elicitação de requisitos, Documentação de requisitos&#xD;
+(user stories, casos de uso), Familiaridade com metodologias ágeis e tradicionais, Análise de processos de negócio,&#xD;
+Negociação e mediação de conflitos</skills>
+</org.eclipse.epf.uma:RoleDescription>

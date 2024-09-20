@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--tfN74GXksmQedyzbb7pmg" name="definir_diagrama_de_componentes,_mQiicHVTEe-2VIVyHbGXOA" guid="--tfN74GXksmQedyzbb7pmg" changeDate="2024-09-20T09:29:44.599-0300">
+  <mainDescription>Desenhar um diagrama que mostra como os diferentes módulos e subsistemas interagem entre si, fornecendo uma visão clara da&#xD;
+arquitetura do software.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_BoNCIHdMEe-dfotIMd8GfA" name="Definir os principais módulos do sistema." guid="_BoNCIHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_CBj9UHdMEe-dfotIMd8GfA" name="Especificar como os componentes se comunicam." guid="_CBj9UHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_CgFFUHdMEe-dfotIMd8GfA" name="Criar o diagrama de componentes." guid="_CgFFUHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_C66AIHdMEe-dfotIMd8GfA" name="Revisar com a equipe de arquitetura." guid="_C66AIHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_DVrQkHdMEe-dfotIMd8GfA" name="Validar o diagrama com base nos requisitos técnicos." guid="_DVrQkHdMEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XXfo1wC5C26oBTdNNQNuxA" name="criar_prototipo_de_alta_fidelidade,_TvELUHVTEe-2VIVyHbGXOA" guid="-XXfo1wC5C26oBTdNNQNuxA" changeDate="2024-09-20T09:32:46.262-0300">
+  <mainDescription>Produzir um protótipo de alta fidelidade que inclua todos os elementos visuais, interações e animações. Ele deve ser&#xD;
+realista o suficiente para servir de base para validação de usabilidade e testes iniciais.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_cppPMHdMEe-dfotIMd8GfA" name="Recolher os wireframes aprovados." guid="_cppPMHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_dfeD8HdMEe-dfotIMd8GfA" name="Criar telas detalhadas com cores, fontes e ícones." guid="_dfeD8HdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_d8KnAHdMEe-dfotIMd8GfA" name="Adicionar interatividade e transições." guid="_d8KnAHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_eTjMQHdMEe-dfotIMd8GfA" name="Validar o protótipo com usuários finais." guid="_eTjMQHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_exr5wHdMEe-dfotIMd8GfA" name="Revisar o protótipo com base no feedback." guid="_exr5wHdMEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

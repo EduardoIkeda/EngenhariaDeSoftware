@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bi1Hvr-YS8LoW2mu-y3FVw" name="revisar_diagramas_da_uml,_w91yoHVTEe-2VIVyHbGXOA" guid="-bi1Hvr-YS8LoW2mu-y3FVw" changeDate="2024-09-20T09:19:06.692-0300">
+  <mainDescription>Verificar se os diagramas UML, como casos de uso, classes e componentes, estão corretos, completos e refletem corretamente&#xD;
+a arquitetura e funcionalidades do sistema após as sprints&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_i55-QHdKEe-dfotIMd8GfA" name="Revisar os requisitos para verificar a correspondência com os diagramas." guid="_i55-QHdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_jgvUwHdKEe-dfotIMd8GfA" name="Validar a consistência entre os diferentes tipos de diagramas." guid="_jgvUwHdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_j7mEwHdKEe-dfotIMd8GfA" name="Verificar a clareza e completude de cada diagrama." guid="_j7mEwHdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_kr7VgHdKEe-dfotIMd8GfA" name="Obter feedback de desenvolvedores e stakeholders." guid="_kr7VgHdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_lHYicHdKEe-dfotIMd8GfA" name="Atualizar os diagramas conforme necessário." guid="_lHYicHdKEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

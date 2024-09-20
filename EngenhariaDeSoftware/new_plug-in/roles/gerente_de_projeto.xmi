@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KqJ8l66Xld_YND0t_hBHPw" name="new_role,_5vsQcHOrEe-G4e_3lKQBog" guid="-KqJ8l66Xld_YND0t_hBHPw" changeDate="2024-09-20T08:34:09.120-0300">
+  <mainDescription>O gerente de projeto lidera a equipe na execução das tarefas do projeto, assegurando que todos os prazos, custos e escopo&#xD;
+sejam cumpridos. Ele gerencia os cronogramas, riscos e recursos, além de ser o principal ponto de contato com os&#xD;
+stakeholders. O gerente também é responsável por garantir que a equipe tenha um ambiente de trabalho produtivo e que os&#xD;
+obstáculos sejam resolvidos rapidamente.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <skills>Planejamento de projetos e cronogramas, Gerenciamento de recursos e orçamento, Gestão de riscos e resolução de conflitos,&#xD;
+Habilidades de liderança e comunicação, Ferramentas de gerenciamento de projetos (MS Project, Jira, etc.), Conhecimento em&#xD;
+metodologias ágeis (Scrum, Kanban)&lt;br /></skills>
+</org.eclipse.epf.uma:RoleDescription>

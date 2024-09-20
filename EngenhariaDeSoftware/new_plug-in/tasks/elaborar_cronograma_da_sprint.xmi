@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0HIDvE7T1XUDJry8It3Dww" name="elaborar_cronograma_da_sprint,_ooJTAHVTEe-2VIVyHbGXOA" guid="-0HIDvE7T1XUDJry8It3Dww" changeDate="2024-09-20T09:24:35.771-0300">
+  <mainDescription>Planejar o trabalho a ser realizado durante a sprint, organizando as tarefas com base na prioridade e no esforço&#xD;
+necessário. O cronograma da sprint ajuda a manter o ritmo de desenvolvimento.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_TOEiEHdLEe-dfotIMd8GfA" name="Definir o backlog de tarefas." guid="_TOEiEHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_Tquo4HdLEe-dfotIMd8GfA" name="Estimar o esforço de cada tarefa." guid="_Tquo4HdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_ULFj8HdLEe-dfotIMd8GfA" name="Alocar tarefas para a sprint." guid="_ULFj8HdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_UqMh0HdLEe-dfotIMd8GfA" name="Definir prazos e entregas." guid="_UqMh0HdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_VF1U8HdLEe-dfotIMd8GfA" name="Revisar o plano com a equipe." guid="_VF1U8HdLEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

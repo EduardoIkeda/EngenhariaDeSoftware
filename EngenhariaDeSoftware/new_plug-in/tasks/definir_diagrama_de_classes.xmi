@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rGjQR3UQOEcC37rDyRYz8g" name="definir_diagrama_de_classes,_cIXYkHVTEe-2VIVyHbGXOA" guid="-rGjQR3UQOEcC37rDyRYz8g" changeDate="2024-09-20T09:30:18.529-0300">
+  <mainDescription>Criar um diagrama que descreve as classes e seus relacionamentos, representando a estrutura estática do sistema. O diagrama&#xD;
+serve como base para a implementação do back end.</mainDescription>
+  <sections xmi:id="_GlgCkHdMEe-dfotIMd8GfA" name="Analisar os requisitos técnicos." guid="_GlgCkHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_HDOgYHdMEe-dfotIMd8GfA" name="Identificar as principais classes e atributos." guid="_HDOgYHdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_HaMO4HdMEe-dfotIMd8GfA" name="Definir os relacionamentos entre as classes." guid="_HaMO4HdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_H3oY0HdMEe-dfotIMd8GfA" name="Criar o diagrama de classes." guid="_H3oY0HdMEe-dfotIMd8GfA"/>
+  <sections xmi:id="_IToYUHdMEe-dfotIMd8GfA" name="Validar o diagrama com a equipe de desenvolvimento." guid="_IToYUHdMEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

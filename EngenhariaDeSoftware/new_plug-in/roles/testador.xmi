@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-G2P-5aOKalNf6HNQIKAkwQ" name="new_role,_3A2roHOrEe-G4e_3lKQBog" guid="-G2P-5aOKalNf6HNQIKAkwQ" changeDate="2024-09-20T08:35:27.874-0300">
+  <mainDescription>&lt;p>&#xD;
+    O testador realiza diversos tipos de testes no software, incluindo testes funcionais, de desempenho, e de segurança, a&#xD;
+    fim de identificar e relatar problemas antes da entrega ao cliente. Ele cria casos de teste, automatiza scripts de&#xD;
+    teste quando necessário, e trabalha em estreita colaboração com desenvolvedores e analistas de requisitos para garantir&#xD;
+    que o software esteja livre de bugs e em conformidade com os requisitos.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></mainDescription>
+  <skills>Criação de casos e planos de teste, Testes automatizados (Selenium, JUnit, etc.), Testes de regressão, segurança e&#xD;
+performance, Conhecimento de ferramentas de gestão de testes (TestRail, Jira), Detecção e documentação de bugs, Atenção aos&#xD;
+detalhes&lt;br /></skills>
+</org.eclipse.epf.uma:RoleDescription>

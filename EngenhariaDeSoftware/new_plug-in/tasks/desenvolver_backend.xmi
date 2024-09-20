@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-S73l7XEyOl4xsX5hGC5gDQ" name="desenvolver_backend,_frPCYHVTEe-2VIVyHbGXOA" guid="-S73l7XEyOl4xsX5hGC5gDQ" changeDate="2024-09-20T09:26:28.880-0300">
+  <mainDescription>Desenvolver o sistema responsável pela manipulação de dados, regras de negócio, segurança, e comunicação com o banco de&#xD;
+dados e o front end. Esta camada atua como o cérebro do sistema.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_kfYR0HdLEe-dfotIMd8GfA" name="Definir a estrutura do projeto de back end (ex.: arquitetura REST)." guid="_kfYR0HdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_lC7q0HdLEe-dfotIMd8GfA" name="Configurar a comunicação com o banco de dados." guid="_lC7q0HdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_ldxMsHdLEe-dfotIMd8GfA" name="Implementar os modelos e controladores principais." guid="_ldxMsHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_l-AzAHdLEe-dfotIMd8GfA" name="Criar endpoints para manipulação de dados (parcialmente integrado à API)." guid="_l-AzAHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_mbc88HdLEe-dfotIMd8GfA" name="Realizar testes de unidade para cada componente desenvolvido." guid="_mbc88HdLEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

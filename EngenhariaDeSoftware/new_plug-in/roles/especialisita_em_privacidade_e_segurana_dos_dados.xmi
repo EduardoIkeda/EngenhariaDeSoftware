@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zs0tMDi-_ImlkKVO_OPbig" name="new_role,_LC9IAHOsEe-G4e_3lKQBog" guid="-zs0tMDi-_ImlkKVO_OPbig" changeDate="2024-09-20T08:33:27.489-0300">
+  <mainDescription>O especialista em privacidade e segurança implementa políticas de proteção de dados e práticas de segurança, assegurando&#xD;
+que o projeto esteja em conformidade com legislações como GDPR, LGPD, HIPAA e outros. Além de realizar auditorias de&#xD;
+segurança, o profissional trabalha na implementação de controles de segurança e resposta a incidentes.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <skills>Conhecimento de normas de privacidade (GDPR, LGPD, HIPAA), Gestão de riscos de segurança da informação, Ferramentas de&#xD;
+monitoramento e auditoria de segurança, Resposta a incidentes e análise forense, Criptografia e segurança de dados,&#xD;
+Capacidade de avaliação de vulnerabilidades&lt;br /></skills>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3nLvQJdhwjfaxEO5OZjjkg" name="desenvolver_front_end_mobile,_erljQHVTEe-2VIVyHbGXOA" guid="-3nLvQJdhwjfaxEO5OZjjkg" changeDate="2024-09-20T09:25:55.979-0300">
+  <mainDescription>Criar a interface que os usuários interagem no celular, garantindo que ela seja responsiva, intuitiva e compatível com&#xD;
+diferentes dispositivos móveis. A interface mobile deve estar conectada ao back end.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_fs9EoHdLEe-dfotIMd8GfA" name="Definir a arquitetura do front end mobile." guid="_fs9EoHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_gQeBYHdLEe-dfotIMd8GfA" name="Implementar o layout das telas." guid="_gQeBYHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_gt0EsHdLEe-dfotIMd8GfA" name="Conectar com o back end através de APIs." guid="_gt0EsHdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_hG220HdLEe-dfotIMd8GfA" name="Implementar a navegação e interações." guid="_hG220HdLEe-dfotIMd8GfA"/>
+  <sections xmi:id="_hf7eIHdLEe-dfotIMd8GfA" name="Realizar testes de responsividade e usabilidade." guid="_hf7eIHdLEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

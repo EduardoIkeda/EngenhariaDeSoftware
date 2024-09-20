@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nrI2MwiwJWc02YoTwBQI7w" name="new_role,_fnQwgHdEEe-dfotIMd8GfA" guid="-nrI2MwiwJWc02YoTwBQI7w" changeDate="2024-09-20T08:36:10.549-0300">
+  <mainDescription>O desenvolvedor backend é responsável pela implementação da lógica do servidor, integração com bancos de dados, APIs e&#xD;
+segurança de sistemas. Ele projeta e implementa a arquitetura de dados e serviços, garantindo que o backend seja eficiente,&#xD;
+seguro e escalável. O desenvolvedor backend também colabora com equipes frontend para garantir que os dados sejam&#xD;
+apresentados adequadamente aos usuários.&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <skills>Linguagens de backend (Java, Python, C#, Node.js), APIs RESTful e SOAP, Bancos de dados (SQL, NoSQL), Arquitetura de&#xD;
+microservices, Segurança e autenticação (OAuth, JWT), Versionamento de código (Git)&lt;br /></skills>
+</org.eclipse.epf.uma:RoleDescription>

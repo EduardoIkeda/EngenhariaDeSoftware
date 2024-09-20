@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9iEoeEt6P6SpSqp4cQtKlA" name="realizar_reuniao_diaria,_vxX_gHVTEe-2VIVyHbGXOA" guid="-9iEoeEt6P6SpSqp4cQtKlA" changeDate="2024-09-20T09:20:56.988-0300">
+  <mainDescription>Realizar reuniões rápidas de 10 a 15 minutos onde cada membro da equipe compartilha o que fez no dia anterior, o que&#xD;
+pretende fazer no dia atual, e se existe algum bloqueio que precisa ser resolvido.</mainDescription>
+  <sections xmi:id="_zGCOoHdKEe-dfotIMd8GfA" name="Agendar reuniões diárias." guid="_zGCOoHdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_1n2rIHdKEe-dfotIMd8GfA" name="Cada membro reporta o progresso e desafios." guid="_1n2rIHdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_2GhkIHdKEe-dfotIMd8GfA" name="Registrar bloqueios e definir ações para resolvê-los." guid="_2GhkIHdKEe-dfotIMd8GfA"/>
+  <sections xmi:id="_3ifL0HdKEe-dfotIMd8GfA" name="Revisar o andamento geral do projeto." guid="_3ifL0HdKEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

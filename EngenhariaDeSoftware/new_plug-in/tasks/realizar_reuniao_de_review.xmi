@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TuSrGe5u6fJDrSrf6sHvoQ" name=",_IX6l8HdNEe-dfotIMd8GfA" guid="-TuSrGe5u6fJDrSrf6sHvoQ">
+  <mainDescription>A reunião de review é realizada ao final de cada sprint, com o objetivo de apresentar o que foi desenvolvido, discutir os&#xD;
+desafios enfrentados, validar os incrementos com os stakeholders e receber feedback para o aperfeiçoamento contínuo do&#xD;
+projeto. O foco é garantir que o time de desenvolvimento, o Product Owner e os stakeholders estejam alinhados quanto ao&#xD;
+progresso e determinar quaisquer ajustes necessários para as sprints seguintes. Durante essa reunião, o time apresenta os&#xD;
+incrementos e discute possíveis melhorias ou mudanças de direção.</mainDescription>
+  <sections xmi:id="_cUaJkHdNEe-dfotIMd8GfA" name="Apresentar o progresso da sprint, destacando os itens concluídos e os que estão pendentes." guid="_cUaJkHdNEe-dfotIMd8GfA"/>
+  <sections xmi:id="_eWf9IHdNEe-dfotIMd8GfA" name="Receber feedback e discutir quaisquer desafios enfrentados durante a sprint." guid="_eWf9IHdNEe-dfotIMd8GfA"/>
+  <sections xmi:id="_e4MU8HdNEe-dfotIMd8GfA" name="Identificar melhorias ou ajustes a serem feitos no próximo ciclo de desenvolvimento." guid="_e4MU8HdNEe-dfotIMd8GfA"/>
+  <sections xmi:id="_fO6y4HdNEe-dfotIMd8GfA" name="Planejar as próximas etapas ou sprints com base no feedback recebido." guid="_fO6y4HdNEe-dfotIMd8GfA"/>
+  <sections xmi:id="_fyuqkHdNEe-dfotIMd8GfA" name="Documentar os resultados da reunião, incluindo feedbacks e ações a serem realizadas." guid="_fyuqkHdNEe-dfotIMd8GfA"/>
+</org.eclipse.epf.uma:TaskDescription>

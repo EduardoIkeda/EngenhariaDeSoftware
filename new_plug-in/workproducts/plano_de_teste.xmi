@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VW-HwWdgoQmxkrpXCAqDdQ" name="plano_de_teste,_MrKxEHOuEe-G4e_3lKQBog" guid="-VW-HwWdgoQmxkrpXCAqDdQ" changeDate="2024-09-15T19:02:51.359-0300">
-  <mainDescription>Detalha os testes a serem realizados, como testes unitários, de integração, de segurança e de desempenho.</mainDescription>
-</org.eclipse.epf.uma:ArtifactDescription>

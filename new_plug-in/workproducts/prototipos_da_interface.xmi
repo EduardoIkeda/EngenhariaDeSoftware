@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MnuP415jZ263nn0gbT_R_A" name="prototipos_da_interface,_AX-hIHOuEe-G4e_3lKQBog" guid="-MnuP415jZ263nn0gbT_R_A" changeDate="2024-09-15T19:01:18.604-0300">
-  <mainDescription>Wireframes e protótipos navegáveis para testar a usabilidade do sistema, garantindo acessibilidade para pessoas com&#xD;
-diferentes níveis de habilidade tecnológica.</mainDescription>
-</org.eclipse.epf.uma:ArtifactDescription>

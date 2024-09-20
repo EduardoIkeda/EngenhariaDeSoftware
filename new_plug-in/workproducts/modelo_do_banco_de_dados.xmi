@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ikVRRbhI1bc87OuM6MZkhA" name="new_artifact,_8W2OAHOtEe-G4e_3lKQBog" guid="-ikVRRbhI1bc87OuM6MZkhA" changeDate="2024-09-15T19:01:01.741-0300">
-  <mainDescription>Diagrama de Entidade-Relacionamento (ER) detalhando a estrutura de tabelas, incluindo:&lt;br />&#xD;
-- Tabela de cidadãos (com integração com o SUS).&lt;br />&#xD;
-- Tabelas de consultas, especialidades e postos de saúde.&lt;br /></mainDescription>
-</org.eclipse.epf.uma:ArtifactDescription>

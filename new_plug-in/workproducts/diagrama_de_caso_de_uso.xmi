@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4sCnOi9MiitsRpUtVr4pDg" name="new_artifact,_2MT-YHOtEe-G4e_3lKQBog" guid="-4sCnOi9MiitsRpUtVr4pDg" changeDate="2024-09-15T19:00:18.058-0300">
-  <mainDescription>Representam as interações entre usuários e o sistema, destacando as funcionalidades principais.</mainDescription>
-</org.eclipse.epf.uma:ArtifactDescription>

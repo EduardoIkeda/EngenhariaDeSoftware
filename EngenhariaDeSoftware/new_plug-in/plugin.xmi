@@ -120,7 +120,7 @@
             <methodElementProperty xmi:id="_MEdaoHVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-aMi0jvWMN9yLNhMowl9pNA" href="uma://-aMi0jvWMN9yLNhMowl9pNA#-aMi0jvWMN9yLNhMowl9pNA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_erljQHVTEe-2VIVyHbGXOA" name="desenvolver_front_end_mobile" guid="_erljQHVTEe-2VIVyHbGXOA" presentationName="Desenvolver front end mobile" briefDescription="Desenvolver a interface de usuário para a versão mobile do sistema.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_erljQHVTEe-2VIVyHbGXOA" name="desenvolver_front_end_mobile" guid="_erljQHVTEe-2VIVyHbGXOA" presentationName="Desenvolver front end mobile" briefDescription="Desenvolver a interface de usuário para a versão mobile do sistema." mandatoryInput="_24ioMHdQEe-xsKmB8SyOHQ _dYf8cHdQEe-xsKmB8SyOHQ _1s24MHdQEe-xsKmB8SyOHQ _lMZWkHdQEe-xsKmB8SyOHQ" output="_DVJCIHkaEe-W9N2oXw6bKg _eWIGwHkbEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_MEf24HVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-3nLvQJdhwjfaxEO5OZjjkg" href="uma://-3nLvQJdhwjfaxEO5OZjjkg#-3nLvQJdhwjfaxEO5OZjjkg"/>
           </contentElements>
@@ -140,47 +140,47 @@
             <methodElementProperty xmi:id="_MEq2AHVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="--tfN74GXksmQedyzbb7pmg" href="uma://--tfN74GXksmQedyzbb7pmg#--tfN74GXksmQedyzbb7pmg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ndrrAHVTEe-2VIVyHbGXOA" name="elaborar_cronograma_geral" guid="_ndrrAHVTEe-2VIVyHbGXOA" presentationName="Elaborar cronograma geral" briefDescription="Planejar todo o cronograma do projeto até sua conclusão.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ndrrAHVTEe-2VIVyHbGXOA" name="elaborar_cronograma_geral" guid="_ndrrAHVTEe-2VIVyHbGXOA" presentationName="Elaborar cronograma geral" briefDescription="Planejar todo o cronograma do projeto até sua conclusão." mandatoryInput="_dYf8cHdQEe-xsKmB8SyOHQ" output="_CElHQHkcEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_MEvHcHVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-5G8vogqF2wK8QmlltfW4yQ" href="uma://-5G8vogqF2wK8QmlltfW4yQ#-5G8vogqF2wK8QmlltfW4yQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ooJTAHVTEe-2VIVyHbGXOA" name="elaborar_cronograma_da_sprint" guid="_ooJTAHVTEe-2VIVyHbGXOA" presentationName="Elaborar cronograma da sprint" briefDescription="Definir as atividades e entregas para cada sprint.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ooJTAHVTEe-2VIVyHbGXOA" name="elaborar_cronograma_da_sprint" guid="_ooJTAHVTEe-2VIVyHbGXOA" presentationName="Elaborar cronograma da sprint" briefDescription="Definir as atividades e entregas para cada sprint." mandatoryInput="_dYf8cHdQEe-xsKmB8SyOHQ _CElHQHkcEe-W9N2oXw6bKg" output="_qWs8sHkbEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_MExjsHVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-0HIDvE7T1XUDJry8It3Dww" href="uma://-0HIDvE7T1XUDJry8It3Dww#-0HIDvE7T1XUDJry8It3Dww"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rC9IkHVTEe-2VIVyHbGXOA" name="implementar_regras_de_negocio" guid="_rC9IkHVTEe-2VIVyHbGXOA" presentationName="Implementar regras de negocio" briefDescription="Codificar as regras e restrições definidas para o sistema.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rC9IkHVTEe-2VIVyHbGXOA" name="implementar_regras_de_negocio" guid="_rC9IkHVTEe-2VIVyHbGXOA" presentationName="Implementar regras de negocio" briefDescription="Codificar as regras e restrições definidas para o sistema." mandatoryInput="_dYf8cHdQEe-xsKmB8SyOHQ" output="_aMoFUHkcEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_ME0nAHVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-_QCtDoF9RzsoIsu48zxTnw" href="uma://-_QCtDoF9RzsoIsu48zxTnw#-_QCtDoF9RzsoIsu48zxTnw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_semAIHVTEe-2VIVyHbGXOA" name="integrar_front_end_e_back_end" guid="_semAIHVTEe-2VIVyHbGXOA" presentationName="Integrar front end e back end" briefDescription=" Garantir a comunicação correta entre o front end e o back end através da API.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_semAIHVTEe-2VIVyHbGXOA" name="integrar_front_end_e_back_end" guid="_semAIHVTEe-2VIVyHbGXOA" presentationName="Integrar front end e back end" briefDescription=" Garantir a comunicação correta entre o front end e o back end através da API." mandatoryInput="_24ioMHdQEe-xsKmB8SyOHQ" output="_j3-r4HdREe-xsKmB8SyOHQ _DVJCIHkaEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_ME3DQHVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-0PneZOHRIjmu6igJC-jyXA" href="uma://-0PneZOHRIjmu6igJC-jyXA#-0PneZOHRIjmu6igJC-jyXA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ujny8HVTEe-2VIVyHbGXOA" name="integrar_api" guid="_ujny8HVTEe-2VIVyHbGXOA" presentationName="Integrar api" briefDescription="Estabelecer a interface da API que permitirá a comunicação entre o back end e outros sistemas.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ujny8HVTEe-2VIVyHbGXOA" name="integrar_api" guid="_ujny8HVTEe-2VIVyHbGXOA" presentationName="Integrar api" briefDescription="Estabelecer a interface da API que permitirá a comunicação entre o back end e outros sistemas." mandatoryInput="_24ioMHdQEe-xsKmB8SyOHQ" output="_DVJCIHkaEe-W9N2oXw6bKg _j3-r4HdREe-xsKmB8SyOHQ">
             <methodElementProperty xmi:id="_ME6GkHVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-vspoCaxuxO6NoTfPgJUOAA" href="uma://-vspoCaxuxO6NoTfPgJUOAA#-vspoCaxuxO6NoTfPgJUOAA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vxX_gHVTEe-2VIVyHbGXOA" name="realizar_reuniao_diaria" guid="_vxX_gHVTEe-2VIVyHbGXOA" presentationName="Realizar reuniao diaria" briefDescription="Coordenar o time diariamente para acompanhar o progresso.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vxX_gHVTEe-2VIVyHbGXOA" name="realizar_reuniao_diaria" guid="_vxX_gHVTEe-2VIVyHbGXOA" presentationName="Realizar reuniao diaria" briefDescription="Coordenar o time diariamente para acompanhar o progresso." mandatoryInput="_qWs8sHkbEe-W9N2oXw6bKg _5wkQYHkgEe-W9N2oXw6bKg" output="_JfRFQHkeEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_ME8i0HVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-9iEoeEt6P6SpSqp4cQtKlA" href="uma://-9iEoeEt6P6SpSqp4cQtKlA#-9iEoeEt6P6SpSqp4cQtKlA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_w91yoHVTEe-2VIVyHbGXOA" name="revisar_diagramas_da_uml" guid="_w91yoHVTEe-2VIVyHbGXOA" presentationName="Revisar diagramas da uml" briefDescription=" Revisar os diagramas UML criados para garantir sua correção e completude ao fim de cada sprint">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_w91yoHVTEe-2VIVyHbGXOA" name="revisar_diagramas_da_uml" guid="_w91yoHVTEe-2VIVyHbGXOA" presentationName="Revisar diagramas da uml" briefDescription=" Revisar os diagramas UML criados para garantir sua correção e completude ao fim de cada sprint" mandatoryInput="_1s24MHdQEe-xsKmB8SyOHQ _24ioMHdQEe-xsKmB8SyOHQ _4SIRUHdQEe-xsKmB8SyOHQ _dXuq8HdREe-xsKmB8SyOHQ" output="_1s24MHdQEe-xsKmB8SyOHQ _24ioMHdQEe-xsKmB8SyOHQ _4SIRUHdQEe-xsKmB8SyOHQ _dXuq8HdREe-xsKmB8SyOHQ">
             <methodElementProperty xmi:id="_ME-_EHVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-bi1Hvr-YS8LoW2mu-y3FVw" href="uma://-bi1Hvr-YS8LoW2mu-y3FVw#-bi1Hvr-YS8LoW2mu-y3FVw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yr1lgHVTEe-2VIVyHbGXOA" name="testar_integracao_front_e_back_end" guid="_yr1lgHVTEe-2VIVyHbGXOA" presentationName="Testar integracao front e back end" briefDescription="Garantir que o front end e o back end se comuniquem corretamente através da API.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yr1lgHVTEe-2VIVyHbGXOA" name="testar_integracao_front_e_back_end" guid="_yr1lgHVTEe-2VIVyHbGXOA" presentationName="Testar integracao front e back end" briefDescription="Garantir que o front end e o back end se comuniquem corretamente através da API." mandatoryInput="_24ioMHdQEe-xsKmB8SyOHQ _4SIRUHdQEe-xsKmB8SyOHQ _dYf8cHdQEe-xsKmB8SyOHQ" output="_j3-r4HdREe-xsKmB8SyOHQ _DVJCIHkaEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_MFBbUHVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-3GRg-RhnXHIsaDfYQRfu3w" href="uma://-3GRg-RhnXHIsaDfYQRfu3w#-3GRg-RhnXHIsaDfYQRfu3w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0txoEHVTEe-2VIVyHbGXOA" name="testar_integracao_de_api" guid="_0txoEHVTEe-2VIVyHbGXOA" presentationName="Testar integracao de api" briefDescription="Validar o funcionamento correto da API e dos seus endpoints.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_0txoEHVTEe-2VIVyHbGXOA" name="testar_integracao_de_api" guid="_0txoEHVTEe-2VIVyHbGXOA" presentationName="Testar integracao de api" briefDescription="Validar o funcionamento correto da API e dos seus endpoints." mandatoryInput="_dYf8cHdQEe-xsKmB8SyOHQ _24ioMHdQEe-xsKmB8SyOHQ _4SIRUHdQEe-xsKmB8SyOHQ" optionalInput="_j3-r4HdREe-xsKmB8SyOHQ _DVJCIHkaEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_MFjm0HVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-zW6LhdXZ4Plz1V3_qjvZFg" href="uma://-zW6LhdXZ4Plz1V3_qjvZFg#-zW6LhdXZ4Plz1V3_qjvZFg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2CKBEHVTEe-2VIVyHbGXOA" name="testar_usabilidade" guid="_2CKBEHVTEe-2VIVyHbGXOA" presentationName="Testar usabilidade" briefDescription="Verificar se o sistema é fácil e intuitivo de usar.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2CKBEHVTEe-2VIVyHbGXOA" name="testar_usabilidade" guid="_2CKBEHVTEe-2VIVyHbGXOA" presentationName="Testar usabilidade" briefDescription="Verificar se o sistema é fácil e intuitivo de usar." mandatoryInput="_lMZWkHdQEe-xsKmB8SyOHQ _mxnA4HdQEe-xsKmB8SyOHQ _eWIGwHkbEe-W9N2oXw6bKg" output="_VeJSEHkeEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_MFmDEHVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-b_CN-p6ocZCkP5V0fosTCw" href="uma://-b_CN-p6ocZCkP5V0fosTCw#-b_CN-p6ocZCkP5V0fosTCw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3EdyoHVTEe-2VIVyHbGXOA" name="teste_do_cliente" guid="_3EdyoHVTEe-2VIVyHbGXOA" presentationName="Teste do cliente" briefDescription="Validar o sistema com o cliente final para garantir que ele atende aos requisitos.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3EdyoHVTEe-2VIVyHbGXOA" name="teste_do_cliente" guid="_3EdyoHVTEe-2VIVyHbGXOA" presentationName="Teste do cliente" briefDescription="Validar o sistema com o cliente final para garantir que ele atende aos requisitos." mandatoryInput="_lMZWkHdQEe-xsKmB8SyOHQ _mxnA4HdQEe-xsKmB8SyOHQ _eWIGwHkbEe-W9N2oXw6bKg" output="_XYZGUHkgEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_Lvbl0HVUEe-2VIVyHbGXOA" name="me_edited" value="true"/>
             <presentation xmi:id="-vaGTvF6MuyCY1SyBBqYthA" href="uma://-vaGTvF6MuyCY1SyBBqYthA#-vaGTvF6MuyCY1SyBBqYthA"/>
           </contentElements>
@@ -196,15 +196,15 @@
             <methodElementProperty xmi:id="_MhhR4HdIEe-dfotIMd8GfA" name="me_edited" value="true"/>
             <presentation xmi:id="-YOL3UVZsAkGnckiNrPhuEA" href="uma://-YOL3UVZsAkGnckiNrPhuEA#-YOL3UVZsAkGnckiNrPhuEA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__W_U0HdIEe-dfotIMd8GfA" name="criar_historias_e_tarefas" guid="__W_U0HdIEe-dfotIMd8GfA" presentationName="Criar historias e tarefas" briefDescription="Definir as histórias gerais de usuários e suas respectivas tarefas para o desenvolvimento de funcionalidades.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__W_U0HdIEe-dfotIMd8GfA" name="criar_historias_e_tarefas" guid="__W_U0HdIEe-dfotIMd8GfA" presentationName="Criar historias e tarefas" briefDescription="Definir as histórias gerais de usuários e suas respectivas tarefas para o desenvolvimento de funcionalidades." mandatoryInput="_dYf8cHdQEe-xsKmB8SyOHQ _1s24MHdQEe-xsKmB8SyOHQ" output="_5wkQYHkgEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_EPrQIHdLEe-dfotIMd8GfA" name="me_edited" value="true"/>
             <presentation xmi:id="-C6OtVzWpylO1RErT7xkg_w" href="uma://-C6OtVzWpylO1RErT7xkg_w#-C6OtVzWpylO1RErT7xkg_w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QPqiIHdJEe-dfotIMd8GfA" name="detalhar_requisitos" guid="_QPqiIHdJEe-dfotIMd8GfA" presentationName="Detalhar requisitos" briefDescription="Descrever e detalhar os requisitos funcionais e não funcionais do sistema.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QPqiIHdJEe-dfotIMd8GfA" name="detalhar_requisitos" guid="_QPqiIHdJEe-dfotIMd8GfA" presentationName="Detalhar requisitos" briefDescription="Descrever e detalhar os requisitos funcionais e não funcionais do sistema." mandatoryInput="_dYf8cHdQEe-xsKmB8SyOHQ" output="_1s24MHdQEe-xsKmB8SyOHQ">
             <methodElementProperty xmi:id="_EQHVAHdLEe-dfotIMd8GfA" name="me_edited" value="true"/>
             <presentation xmi:id="-N5D2OJmoSWP_R2pyV0eaRw" href="uma://-N5D2OJmoSWP_R2pyV0eaRw#-N5D2OJmoSWP_R2pyV0eaRw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Z-kQYHdJEe-dfotIMd8GfA" name="desenvolver_visual_do_prototipo" guid="_Z-kQYHdJEe-dfotIMd8GfA" presentationName="Desenvolver visual do prototipo" briefDescription="Refinar o protótipo de alta fidelidade para obter a interface final do projeto.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Z-kQYHdJEe-dfotIMd8GfA" name="desenvolver_visual_do_prototipo" guid="_Z-kQYHdJEe-dfotIMd8GfA" presentationName="Desenvolver visual do prototipo" briefDescription="Refinar o protótipo de alta fidelidade para obter a interface final do projeto." output="_pCDPMHkhEe-W9N2oXw6bKg _w54HEHkhEe-W9N2oXw6bKg _8KF3EHkhEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_EQRtEHdLEe-dfotIMd8GfA" name="me_edited" value="true"/>
             <presentation xmi:id="-Ym6V9Ihw2erqbp0-derEVg" href="uma://-Ym6V9Ihw2erqbp0-derEVg#-Ym6V9Ihw2erqbp0-derEVg"/>
           </contentElements>
@@ -212,42 +212,42 @@
             <methodElementProperty xmi:id="_EQZB0HdLEe-dfotIMd8GfA" name="me_edited" value="true"/>
             <presentation xmi:id="-xHxJ-dRLCtDtrfmkLOohNA" href="uma://-xHxJ-dRLCtDtrfmkLOohNA#-xHxJ-dRLCtDtrfmkLOohNA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BZzkUHdNEe-dfotIMd8GfA" name="desenvolver_banco_de_dados" guid="_BZzkUHdNEe-dfotIMd8GfA" presentationName="Desenvolver banco de dados" briefDescription="Implementar a estrutura do banco de dados conforme a definição anterior, garantindo que todos os componentes estejam prontos para uso.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BZzkUHdNEe-dfotIMd8GfA" name="desenvolver_banco_de_dados" guid="_BZzkUHdNEe-dfotIMd8GfA" presentationName="Desenvolver banco de dados" briefDescription="Implementar a estrutura do banco de dados conforme a definição anterior, garantindo que todos os componentes estejam prontos para uso." mandatoryInput="_dXuq8HdREe-xsKmB8SyOHQ _dYf8cHdQEe-xsKmB8SyOHQ _24ioMHdQEe-xsKmB8SyOHQ" output="_TJl4sHkiEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_ggvAEHdNEe-dfotIMd8GfA" name="me_edited" value="true"/>
             <presentation xmi:id="-alrOF-n3dI8zWQ9yxj36yA" href="uma://-alrOF-n3dI8zWQ9yxj36yA#-alrOF-n3dI8zWQ9yxj36yA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_IX6l8HdNEe-dfotIMd8GfA" name="realizar_reuniao_de_review" guid="_IX6l8HdNEe-dfotIMd8GfA" presentationName="Realizar reuniao de review">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_IX6l8HdNEe-dfotIMd8GfA" name="realizar_reuniao_de_review" guid="_IX6l8HdNEe-dfotIMd8GfA" presentationName="Realizar reuniao de review" output="_JfRFQHkeEe-W9N2oXw6bKg _nzvMgHkiEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_gg274HdNEe-dfotIMd8GfA" name="me_edited" value="true"/>
             <presentation xmi:id="-TuSrGe5u6fJDrSrf6sHvoQ" href="uma://-TuSrGe5u6fJDrSrf6sHvoQ#-TuSrGe5u6fJDrSrf6sHvoQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_WFKRsHdQEe-xsKmB8SyOHQ" name="quadro_kanban" guid="_WFKRsHdQEe-xsKmB8SyOHQ" presentationName="Quadro Kanban">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_WFKRsHdQEe-xsKmB8SyOHQ" name="quadro_kanban" guid="_WFKRsHdQEe-xsKmB8SyOHQ" presentationName="Quadro Kanban" briefDescription="Ferramenta visual que organiza e gerencia o fluxo de trabalho em um projeto, utilizando cartões e colunas para representar tarefas em diferentes estágios de conclusão.">
             <methodElementProperty xmi:id="_bcN18HdQEe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_dYf8cHdQEe-xsKmB8SyOHQ" name="documentos_de_requisitos" guid="_dYf8cHdQEe-xsKmB8SyOHQ" presentationName="Documentos de requisitos">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_dYf8cHdQEe-xsKmB8SyOHQ" name="documentos_de_requisitos" guid="_dYf8cHdQEe-xsKmB8SyOHQ" presentationName="Documentos de requisitos" briefDescription="Documento que inclui descrições das funcionalidades, especificações técnicas, requisitos de desempenho e critérios de aceitação do projeto">
             <methodElementProperty xmi:id="_50gDAHdQEe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lMZWkHdQEe-xsKmB8SyOHQ" name="prototipo_de_alta_fidelidade" guid="_lMZWkHdQEe-xsKmB8SyOHQ" presentationName="Prototipo de alta fidelidade">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lMZWkHdQEe-xsKmB8SyOHQ" name="prototipo_de_alta_fidelidade" guid="_lMZWkHdQEe-xsKmB8SyOHQ" presentationName="Prototipo de alta fidelidade" briefDescription="Representação visual detalhada de uma interface, que simula a aparência e a interação do produto final.">
             <methodElementProperty xmi:id="_50jtYHdQEe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mxnA4HdQEe-xsKmB8SyOHQ" name="prototipo_de_baixa_fidelidade" guid="_mxnA4HdQEe-xsKmB8SyOHQ" presentationName="Prototipo de baixa fidelidade">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mxnA4HdQEe-xsKmB8SyOHQ" name="prototipo_de_baixa_fidelidade" guid="_mxnA4HdQEe-xsKmB8SyOHQ" presentationName="Prototipo de baixa fidelidade" briefDescription="Versão simplificada de uma interface, usada para testar ideias e validar conceitos iniciais abstraindo os detalhes visuais">
             <methodElementProperty xmi:id="_50mwsHdQEe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1s24MHdQEe-xsKmB8SyOHQ" name="diagrama_de_caso_de_uso" guid="_1s24MHdQEe-xsKmB8SyOHQ" presentationName="Diagrama de caso de uso">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1s24MHdQEe-xsKmB8SyOHQ" name="diagrama_de_caso_de_uso" guid="_1s24MHdQEe-xsKmB8SyOHQ" presentationName="Diagrama de caso de uso" briefDescription="Representação visual que mostra as interações entre usuários e um sistema, descrevendo suas principais funcionalidades ">
             <methodElementProperty xmi:id="_50rpMHdQEe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24ioMHdQEe-xsKmB8SyOHQ" name="diagrama_de_classes" guid="_24ioMHdQEe-xsKmB8SyOHQ" presentationName="Diagrama de classes">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24ioMHdQEe-xsKmB8SyOHQ" name="diagrama_de_classes" guid="_24ioMHdQEe-xsKmB8SyOHQ" presentationName="Diagrama de classes" briefDescription="Representação visual que mostra as classes de um sistema, seus atributos, métodos e os relacionamentos entre elas.">
             <methodElementProperty xmi:id="_50vTkHdQEe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4SIRUHdQEe-xsKmB8SyOHQ" name="diagrama_de_componentes" guid="_4SIRUHdQEe-xsKmB8SyOHQ" presentationName="Diagrama de componentes">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4SIRUHdQEe-xsKmB8SyOHQ" name="diagrama_de_componentes" guid="_4SIRUHdQEe-xsKmB8SyOHQ" presentationName="Diagrama de componentes" briefDescription="Representação visual que mostra a estrutura de um sistema, destacando seus componentes e as interações entre eles.">
             <methodElementProperty xmi:id="_50yW4HdQEe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_JSHAgHdREe-xsKmB8SyOHQ" name="plano_de_equipe" guid="_JSHAgHdREe-xsKmB8SyOHQ" presentationName="Plano de equipe">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_JSHAgHdREe-xsKmB8SyOHQ" name="plano_de_equipe" guid="_JSHAgHdREe-xsKmB8SyOHQ" presentationName="Plano de equipe" briefDescription="Documento que define a composição da equipe de projeto, atribuições de funções e responsabilidades">
             <methodElementProperty xmi:id="_RkS5IHdREe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_dXuq8HdREe-xsKmB8SyOHQ" name="diagrama_de_entidade_relacionamento" guid="_dXuq8HdREe-xsKmB8SyOHQ" presentationName="Diagrama de entidade relacionamento">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_dXuq8HdREe-xsKmB8SyOHQ" name="diagrama_de_entidade_relacionamento" guid="_dXuq8HdREe-xsKmB8SyOHQ" presentationName="Diagrama de entidade relacionamento" briefDescription="Representação visual que mostra as entidades de um sistema, seus atributos e os relacionamentos entre elas.">
             <methodElementProperty xmi:id="_h5wEoHdREe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_j3-r4HdREe-xsKmB8SyOHQ" name="codigo_fonte_do_backend" guid="_j3-r4HdREe-xsKmB8SyOHQ" presentationName="Codigo fonte do backend">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_j3-r4HdREe-xsKmB8SyOHQ" name="codigo_fonte_do_backend" guid="_j3-r4HdREe-xsKmB8SyOHQ" presentationName="Codigo fonte do backend" briefDescription="Conjunto de instruções escritas em uma linguagem de programação que implementa a lógica de negócio e a manipulação de dados em um sistema.">
             <methodElementProperty xmi:id="_qfEUoHdREe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bwvswHdWEe-xsKmB8SyOHQ" name="entregar_modulo_parcial" guid="_bwvswHdWEe-xsKmB8SyOHQ" presentationName="Entregar modulo parcial">
@@ -255,6 +255,48 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_o98t4HdWEe-xsKmB8SyOHQ" name="implantar_sistema" guid="_o98t4HdWEe-xsKmB8SyOHQ" presentationName="Implantar sistema">
             <methodElementProperty xmi:id="_3JF98HdWEe-xsKmB8SyOHQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DVJCIHkaEe-W9N2oXw6bKg" name="codigo_fonte_do_front_end" guid="_DVJCIHkaEe-W9N2oXw6bKg" presentationName="Codigo fonte do front-end" briefDescription="Conjunto de instruções escritas em uma linguagem de programação que define a interface do usuário e a interação visual em um sistema.">
+            <methodElementProperty xmi:id="_WDQ4sHkbEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_eWIGwHkbEe-W9N2oXw6bKg" name="frontend" guid="_eWIGwHkbEe-W9N2oXw6bKg" presentationName="Frontend" briefDescription="Parte do sistema que lida com a interface do usuário e a experiência visual, permitindo a interação entre o usuário e o site">
+            <methodElementProperty xmi:id="_h_4bsHkbEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qWs8sHkbEe-W9N2oXw6bKg" name="cronograma_da_sprint" guid="_qWs8sHkbEe-W9N2oXw6bKg" presentationName="Cronograma da sprint" briefDescription="Documento que organiza e define as atividades seus prazos e responsáveis para uma sprint.">
+            <methodElementProperty xmi:id="_8U5noHkbEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_CElHQHkcEe-W9N2oXw6bKg" name="cronograma_geral" guid="_CElHQHkcEe-W9N2oXw6bKg" presentationName="Cronograma geral" briefDescription="Documento que apresenta o planejamento de todas as etapas de um projeto, incluindo prazos, atividades e marcos.">
+            <methodElementProperty xmi:id="_FVKuQHkcEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_aMoFUHkcEe-W9N2oXw6bKg" name="codigo_das_regras_de_negocios" guid="_aMoFUHkcEe-W9N2oXw6bKg" presentationName="Codigo das regras de negocios" briefDescription="Conjunto de instruções em uma linguagem de programação que define e implementa as regras e lógica específicas que regulam o comportamento de um sistema.">
+            <methodElementProperty xmi:id="_pzK8YHkcEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_JfRFQHkeEe-W9N2oXw6bKg" name="ata_de_reuniao" guid="_JfRFQHkeEe-W9N2oXw6bKg" presentationName="Ata de Reunião" briefDescription="Documento que registra os principais pontos discutidos, decisões tomadas e ações atribuídas durante uma reunião.">
+            <methodElementProperty xmi:id="_WB--8HkeEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_VeJSEHkeEe-W9N2oXw6bKg" name="relatrio_de_testes_de_usabilidade" guid="_VeJSEHkeEe-W9N2oXw6bKg" presentationName="Relatório de Testes de Usabilidade" briefDescription="Documento que compila os resultados das avaliações de usabilidade de um sistema, incluindo feedback dos usuários, métricas de desempenho e recomendações para melhorias.">
+            <methodElementProperty xmi:id="_eR5msHkeEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_XYZGUHkgEe-W9N2oXw6bKg" name="relatrio_de_teste_do_cliente" guid="_XYZGUHkgEe-W9N2oXw6bKg" presentationName="Relatório de teste do cliente" briefDescription="Documento que apresenta os resultados dos testes realizados pelo cliente em um sistema, incluindo feedback, conformidade com os requisitos e problemas identificados">
+            <methodElementProperty xmi:id="_hv8wAHkgEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5wkQYHkgEe-W9N2oXw6bKg" name="backlog_de_histrias_e_tarefas" guid="_5wkQYHkgEe-W9N2oXw6bKg" presentationName="Backlog de histórias e tarefas" briefDescription="Conjunto de histórias de usuários e tarefas que precisam ser concluídas em um projeto, servindo como guia para o desenvolvimento e planejamento das sprints.">
+            <methodElementProperty xmi:id="_ClnlgHkhEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pCDPMHkhEe-W9N2oXw6bKg" name="interface_final_do_projeto" guid="_pCDPMHkhEe-W9N2oXw6bKg" presentationName="Interface final do projeto" briefDescription="Representação visual da aparência e funcionamento do sistema, integrando todos os elementos de design e interatividade, pronta para a entrega aos usuários finais.">
+            <methodElementProperty xmi:id="_toa9YHkhEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_w54HEHkhEe-W9N2oXw6bKg" name="guia_de_estilo_e_especificaes_visuais" guid="_w54HEHkhEe-W9N2oXw6bKg" presentationName="Guia de estilo e especificações visuais" briefDescription="Documento que define as diretrizes de design, incluindo cores, tipografia, espaçamento e elementos visuais, para garantir a consistência e a identidade visual de um projeto.">
+            <methodElementProperty xmi:id="_zlbHUHkhEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8KF3EHkhEe-W9N2oXw6bKg" name="assets_grficos_prontos_para_uso" guid="_8KF3EHkhEe-W9N2oXw6bKg" presentationName="Assets gráficos prontos para uso" briefDescription="Conjunto de elementos visuais, como ícones, imagens e fontes, preparados para serem utilizados em um projeto.">
+            <methodElementProperty xmi:id="_CS1W8HkiEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_TJl4sHkiEe-W9N2oXw6bKg" name="banco_de_dados_funcional" guid="_TJl4sHkiEe-W9N2oXw6bKg" presentationName="Banco de dados funcional" briefDescription="Estrutura organizada de dados para a operações de um sistema. Permitindo o armazenamento, recuperação e manipulação das informações.">
+            <methodElementProperty xmi:id="_dOFccHkiEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nzvMgHkiEe-W9N2oXw6bKg" name="registro_de_acoes_e_melhorias" guid="_nzvMgHkiEe-W9N2oXw6bKg" presentationName="Registro de acoes e melhorias" briefDescription="Documento que compila as ações discutidas e as melhorias propostas durante as reuniões de revisão, servindo como referência para o acompanhamento e implementação de ajustes no projeto.">
+            <methodElementProperty xmi:id="_E3nOkHknEe-W9N2oXw6bKg" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>

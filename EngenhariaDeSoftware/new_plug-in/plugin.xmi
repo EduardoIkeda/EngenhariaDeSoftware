@@ -250,10 +250,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_j3-r4HdREe-xsKmB8SyOHQ" name="codigo_fonte_do_backend" guid="_j3-r4HdREe-xsKmB8SyOHQ" presentationName="Codigo fonte do backend" briefDescription="Conjunto de instruções escritas em uma linguagem de programação que implementa a lógica de negócio e a manipulação de dados em um sistema.">
             <methodElementProperty xmi:id="_qfEUoHdREe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bwvswHdWEe-xsKmB8SyOHQ" name="entregar_modulo_parcial" guid="_bwvswHdWEe-xsKmB8SyOHQ" presentationName="Entregar modulo parcial">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bwvswHdWEe-xsKmB8SyOHQ" name="entregar_modulo_parcial" guid="_bwvswHdWEe-xsKmB8SyOHQ" presentationName="Entregar modulo parcial" mandatoryInput="_s2iMcHksEe-W9N2oXw6bKg _UtbpAHktEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_3JC6oHdWEe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_o98t4HdWEe-xsKmB8SyOHQ" name="implantar_sistema" guid="_o98t4HdWEe-xsKmB8SyOHQ" presentationName="Implantar sistema">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_o98t4HdWEe-xsKmB8SyOHQ" name="implantar_sistema" guid="_o98t4HdWEe-xsKmB8SyOHQ" presentationName="Implantar sistema" mandatoryInput="_s2iMcHksEe-W9N2oXw6bKg _DEomUHktEe-W9N2oXw6bKg">
             <methodElementProperty xmi:id="_3JF98HdWEe-xsKmB8SyOHQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DVJCIHkaEe-W9N2oXw6bKg" name="codigo_fonte_do_front_end" guid="_DVJCIHkaEe-W9N2oXw6bKg" presentationName="Codigo fonte do front-end" briefDescription="Conjunto de instruções escritas em uma linguagem de programação que define a interface do usuário e a interação visual em um sistema.">
@@ -297,6 +297,18 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nzvMgHkiEe-W9N2oXw6bKg" name="registro_de_acoes_e_melhorias" guid="_nzvMgHkiEe-W9N2oXw6bKg" presentationName="Registro de acoes e melhorias" briefDescription="Documento que compila as ações discutidas e as melhorias propostas durante as reuniões de revisão, servindo como referência para o acompanhamento e implementação de ajustes no projeto.">
             <methodElementProperty xmi:id="_E3nOkHknEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SFdWoHksEe-W9N2oXw6bKg" name="criar_manuais" guid="_SFdWoHksEe-W9N2oXw6bKg" presentationName="Criar Manuais" briefDescription="Elaboração de documentos que fornecem instruções claras e diretrizes sobre o uso e operação de um sistema ou produto." mandatoryInput="_dYf8cHdQEe-xsKmB8SyOHQ _aMoFUHkcEe-W9N2oXw6bKg _j3-r4HdREe-xsKmB8SyOHQ _DVJCIHkaEe-W9N2oXw6bKg" output="_s2iMcHksEe-W9N2oXw6bKg">
+            <methodElementProperty xmi:id="_3NQIoHksEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_s2iMcHksEe-W9N2oXw6bKg" name="manuais" guid="_s2iMcHksEe-W9N2oXw6bKg" presentationName="Manuais" briefDescription="Documentos que contêm instruções e diretrizes sobre o uso e funcionamento de um sistema ou produto.">
+            <methodElementProperty xmi:id="_0yKmQHksEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DEomUHktEe-W9N2oXw6bKg" name="sistema_finalizado" guid="_DEomUHktEe-W9N2oXw6bKg" presentationName="Sistema finalizado" briefDescription="Produto final do desenvolvimento do projeto, incluindo todas as funcionalidades">
+            <methodElementProperty xmi:id="_Ptvb4HktEe-W9N2oXw6bKg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_UtbpAHktEe-W9N2oXw6bKg" name="sistema_parcial" guid="_UtbpAHktEe-W9N2oXw6bKg" presentationName="sistema parcial" briefDescription="Produto em desenvolvimento que contém algumas funcionalidades implementadas e testadas, mas ainda não está completo para uso final">
+            <methodElementProperty xmi:id="_ai1WIHktEe-W9N2oXw6bKg" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>

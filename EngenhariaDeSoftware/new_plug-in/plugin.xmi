@@ -64,6 +64,7 @@
             <methodElementProperty xmi:id="_U39_0HeSEe-lIIqoq4P27g" name="PUBLISH_CATEGORY" value="true"/>
             <methodElementProperty xmi:id="_ZEGpEHeSEe-lIIqoq4P27g" name="me_edited" value="true"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_RbHRsHeCEe-lIIqoq4P27g#_RbHRsXeCEe-lIIqoq4P27g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_PaGA8HlKEe-qo_w2p3QS1w#_PaGA8XlKEe-qo_w2p3QS1w"/>
           </contentElements>
         </childPackages>
       </childPackages>

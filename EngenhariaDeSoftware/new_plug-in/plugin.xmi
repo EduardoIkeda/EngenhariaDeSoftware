@@ -2,6 +2,7 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="__LTaAHOqEe-G4e_3lKQBog" guid="__LTaAHOqEe-G4e_3lKQBog">
     <subManagers xmi:id="_RboPEHeCEe-lIIqoq4P27g" href="uma://_RbHRsHeCEe-lIIqoq4P27g#_RboPEHeCEe-lIIqoq4P27g"/>
+    <subManagers xmi:id="_PabYIHlKEe-qo_w2p3QS1w" href="uma://_PaGA8HlKEe-qo_w2p3QS1w#_PabYIHlKEe-qo_w2p3QS1w"/>
     <resourceDescriptors xmi:id="_0FCawHOrEe-G4e_3lKQBog" id="-B40MTZvWFL4Pf1rps5Ketw" uri="roles/analista_de_requisitos.xmi"/>
     <resourceDescriptors xmi:id="_5vtekHOrEe-G4e_3lKQBog" id="-G2P-5aOKalNf6HNQIKAkwQ" uri="roles/testador.xmi"/>
     <resourceDescriptors xmi:id="_8klZ8HOrEe-G4e_3lKQBog" id="-KqJ8l66Xld_YND0t_hBHPw" uri="roles/gerente_de_projeto.xmi"/>
@@ -42,6 +43,7 @@
     <resourceDescriptors xmi:id="_ggaP8HdNEe-dfotIMd8GfA" id="-TuSrGe5u6fJDrSrf6sHvoQ" uri="tasks/realizar_reuniao_de_review.xmi"/>
     <resourceDescriptors xmi:id="_RbSQ0HeCEe-lIIqoq4P27g" id="_RbHRsHeCEe-lIIqoq4P27g" uri="deliveryprocesses/ProjetoSus/model.xmi"/>
     <resourceDescriptors xmi:id="_Bpz6MHlFEe-1fttRZXDQlQ" id="-mPFJTdic1HcG25v4i9EmXA" uri="tasks/criar_manuais.xmi"/>
+    <resourceDescriptors xmi:id="_PaIdMHlKEe-qo_w2p3QS1w" id="_PaGA8HlKEe-qo_w2p3QS1w" uri="deliveryprocesses/ProjetoSusNovo/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="__LRk0HOqEe-G4e_3lKQBog" name="new_plug-in" guid="__LRk0HOqEe-G4e_3lKQBog">
     <methodElementProperty xmi:id="__LUBEHOqEe-G4e_3lKQBog" name="plugin_synFree" value="true"/>
@@ -318,6 +320,7 @@
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__LRk3nOqEe-G4e_3lKQBog" name="DeliveryProcesses" guid="__LRk3nOqEe-G4e_3lKQBog">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_RbHRsHeCEe-lIIqoq4P27g" href="uma://_RbHRsHeCEe-lIIqoq4P27g#_RbHRsHeCEe-lIIqoq4P27g"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_PaGA8HlKEe-qo_w2p3QS1w" href="uma://_PaGA8HlKEe-qo_w2p3QS1w#_PaGA8HlKEe-qo_w2p3QS1w"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__LRk33OqEe-G4e_3lKQBog" name="ProcessContributions" guid="__LRk33OqEe-G4e_3lKQBog"/>
   </org.eclipse.epf.uma:MethodPlugin>

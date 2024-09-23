@@ -19,6 +19,7 @@
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://__LRk0HOqEe-G4e_3lKQBog#__LRk2HOqEe-G4e_3lKQBog"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://__LRk0HOqEe-G4e_3lKQBog#__LRk2nOqEe-G4e_3lKQBog"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_RbHRsHeCEe-lIIqoq4P27g#_RbHRsHeCEe-lIIqoq4P27g"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_PaGA8HlKEe-qo_w2p3QS1w#_PaGA8HlKEe-qo_w2p3QS1w"/>
   <processViews xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://__LRk0HOqEe-G4e_3lKQBog#_P08K0HeSEe-lIIqoq4P27g"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://__LRk0HOqEe-G4e_3lKQBog#_P08K0HeSEe-lIIqoq4P27g"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://__LRk0HOqEe-G4e_3lKQBog#__LRk23OqEe-G4e_3lKQBog"/>

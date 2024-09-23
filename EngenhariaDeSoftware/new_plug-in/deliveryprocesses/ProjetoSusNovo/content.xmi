@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-mBOnQBwl9OvC4Ktoa3Glbg" name="ProjetoSusNovo,_PaGA8XlKEe-qo_w2p3QS1w" guid="-mBOnQBwl9OvC4Ktoa3Glbg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ge2cNDr0aSylq9RlZcymaA" name="coletar_requisitos,_j6gxAHlKEe-qo_w2p3QS1w" guid="-Ge2cNDr0aSylq9RlZcymaA">
+    <refinedDescription>Nesta tarefa, o time identifica os requisitos funcionais e não funcionais do sistema, através de entrevistas, workshops, e&#xD;
+análise de documentos. O objetivo é garantir que o software atenda às expectativas dos usuários e outros&#xD;
+stakeholders.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Gtdzwm8yqkDctCDq_Qm2Sw" name="criar_historias_e_tarefas,_j6gxAXlKEe-qo_w2p3QS1w" guid="-Gtdzwm8yqkDctCDq_Qm2Sw">
+    <refinedDescription>Nesta tarefa, o responsável cria histórias de usuários a partir dos requisitos levantados e define as tarefas que a equipe&#xD;
+de desenvolvimento precisará executar para atender a essas histórias. O foco está em descrever o valor para o usuário, a&#xD;
+funcionalidade esperada, e dividir o trabalho em pequenas etapas que possam ser facilmente gerenciadas e rastreadas no&#xD;
+desenvolvimento.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-71nlpvEZLHGMooFsI0ZN_A" name="criar_prototipo_de_alta_fidelidade,_j6gxAnlKEe-qo_w2p3QS1w" guid="-71nlpvEZLHGMooFsI0ZN_A">
+    <refinedDescription>Produzir um protótipo de alta fidelidade que inclua todos os elementos visuais, interações e animações. Ele deve ser&#xD;
+realista o suficiente para servir de base para validação de usabilidade e testes iniciais.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uWj0OYuGbR1fvyEqetAH1w" name="criar_prototipo_de_baixa_fidelidade,_j6gxA3lKEe-qo_w2p3QS1w" guid="-uWj0OYuGbR1fvyEqetAH1w">
+    <refinedDescription>Criação de um protótipo simplificado, sem detalhes gráficos ou interações complexas, com o objetivo de validar rapidamente&#xD;
+a navegação e a estrutura da interface.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ra1Fd7x1OhnzuKm6hUXEBw" name="definir_banco_de_dados,_j6gxBHlKEe-qo_w2p3QS1w" guid="-ra1Fd7x1OhnzuKm6hUXEBw">
+    <refinedDescription>Definir o esquema do banco de dados, incluindo tabelas, relacionamentos e restrições, garantindo que ele suporte os&#xD;
+requisitos funcionais e não funcionais do sistema.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-M2sujglhCBJQMzB3YyO6OQ" name="definir_diagrama_de_caso_de_uso,_j6gxBXlKEe-qo_w2p3QS1w" guid="-M2sujglhCBJQMzB3YyO6OQ">
+    <refinedDescription>Criar um diagrama que representa as interações dos usuários com o sistema, mapeando as principais funcionalidades e atores&#xD;
+envolvidos. Serve como base para o desenvolvimento e testes.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-0CCU5S1dgmQmUbTmNTstnQ" name="definir_diagrama_de_classes,_j6gxBnlKEe-qo_w2p3QS1w" guid="-0CCU5S1dgmQmUbTmNTstnQ">
+    <refinedDescription>Criar um diagrama que descreve as classes e seus relacionamentos, representando a estrutura estática do sistema. O diagrama&#xD;
+serve como base para a implementação do back end.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fv25BQmAFhvXkPcTy_6Nsg" name="definir_diagrama_de_componentes,_j6gxB3lKEe-qo_w2p3QS1w" guid="-fv25BQmAFhvXkPcTy_6Nsg">
+    <refinedDescription>Desenhar um diagrama que mostra como os diferentes módulos e subsistemas interagem entre si, fornecendo uma visão clara da&#xD;
+arquitetura do software.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-OizyvakPDMrP6iLiWx9AGQ" name="definir_equipe,_j6gxCHlKEe-qo_w2p3QS1w" guid="-OizyvakPDMrP6iLiWx9AGQ">
+    <refinedDescription>Definir o papel e as responsabilidades de cada membro da equipe para garantir uma execução eficiente das tarefas. Isso&#xD;
+inclui identificar habilidades e distribuir tarefas com base nas competências de cada um.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6_A63At9uq0PTF3o0zzigQ" name="elaborar_cronograma_geral,_j6gxCXlKEe-qo_w2p3QS1w" guid="-6_A63At9uq0PTF3o0zzigQ">
+    <refinedDescription>Criar um cronograma global que inclui todas as fases do projeto, desde a coleta de requisitos até a entrega final,&#xD;
+identificando marcos importantes, prazos e dependências entre atividades.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Z0x1FNVvPwsnzvLMm-PgQQ" name="testar_usabilidade,_j6gxCnlKEe-qo_w2p3QS1w" guid="-Z0x1FNVvPwsnzvLMm-PgQQ">
+    <refinedDescription>Avaliar a interface e a experiência do usuário para garantir que o sistema seja acessível, fácil de navegar e que atenda às&#xD;
+expectativas dos usuários finais em termos de usabilidade.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FLbzwx7_2DNeP-U6xj0tVQ" name="teste_do_cliente,_j6gxC3lKEe-qo_w2p3QS1w" guid="-FLbzwx7_2DNeP-U6xj0tVQ">
+    <refinedDescription>Realizar uma série de testes com o cliente ou stakeholders para verificar se o sistema atende às suas expectativas e&#xD;
+requisitos. Qualquer ajuste necessário deve ser identificado e implementado.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-MZtwu-sj2FhW_ufAO5ZhIg" name="analista_de_requisitos,_j6h_IHlKEe-qo_w2p3QS1w" guid="-MZtwu-sj2FhW_ufAO5ZhIg">
+    <refinedDescription>O analista de requisitos atua como ponte entre os stakeholders e a equipe técnica. Ele coleta as necessidades e&#xD;
+expectativas do cliente, traduzindo-as em requisitos claros e detalhados que orientam o desenvolvimento do sistema. Seu&#xD;
+trabalho envolve realizar entrevistas, reuniões, e elaborar documentos que descrevem o comportamento e funcionalidades do&#xD;
+software.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-sTOwSpsfCGT7Nh_IRNpavg" name="governo,_j6h_InlKEe-qo_w2p3QS1w" guid="-sTOwSpsfCGT7Nh_IRNpavg">
+    <refinedDescription>O cliente ou representante do governo define os objetivos e expectativas do projeto, fornecendo feedback e aprovações nas&#xD;
+entregas. Ele é responsável por garantir que o produto final esteja de acordo com as necessidades da organização ou das&#xD;
+regulamentações governamentais e atua como um facilitador entre a equipe do projeto e a alta direção ou outras partes&#xD;
+interessadas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-j6jvwJYpsKJv6EIoDcpQ8w" name="gerente_de_projeto,_j6h_JHlKEe-qo_w2p3QS1w" guid="-j6jvwJYpsKJv6EIoDcpQ8w">
+    <refinedDescription>O gerente de projeto lidera a equipe na execução das tarefas do projeto, assegurando que todos os prazos, custos e escopo&#xD;
+sejam cumpridos. Ele gerencia os cronogramas, riscos e recursos, além de ser o principal ponto de contato com os&#xD;
+stakeholders. O gerente também é responsável por garantir que a equipe tenha um ambiente de trabalho produtivo e que os&#xD;
+obstáculos sejam resolvidos rapidamente.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-k5ooQKdd5tpU7-pN8zUMVg" name="administrador_de_banco_de_dados,_j6h_JnlKEe-qo_w2p3QS1w" guid="-k5ooQKdd5tpU7-pN8zUMVg">
+    <refinedDescription>O DBA gerencia a estrutura de dados para garantir que os sistemas estejam seguros, eficientes e bem organizados. Ele é&#xD;
+responsável por realizar backups, otimizar o desempenho, configurar sistemas de alta disponibilidade, além de definir&#xD;
+políticas de segurança para o acesso aos dados. Trabalha em colaboração com equipes de desenvolvimento e infraestrutura&#xD;
+para garantir a integridade e disponibilidade das informações.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-hIAc--n1x_ekUSc_R_nCHA" name="desenvolvedor_backend,_j6h_KHlKEe-qo_w2p3QS1w" guid="-hIAc--n1x_ekUSc_R_nCHA">
+    <refinedDescription>O desenvolvedor backend é responsável pela implementação da lógica do servidor, integração com bancos de dados, APIs e&#xD;
+segurança de sistemas. Ele projeta e implementa a arquitetura de dados e serviços, garantindo que o backend seja eficiente,&#xD;
+seguro e escalável. O desenvolvedor backend também colabora com equipes frontend para garantir que os dados sejam&#xD;
+apresentados adequadamente aos usuários.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5g1PAoXFKDFoz97TywEVYg" name="desenvolvedor_frontend_mobile,_j6h_KnlKEe-qo_w2p3QS1w" guid="-5g1PAoXFKDFoz97TywEVYg">
+    <refinedDescription>O desenvolvedor frontend mobile cria interfaces para aplicativos móveis em diversas plataformas, como Android e iOS. Ele&#xD;
+utiliza frameworks e ferramentas como React Native, Flutter, ou desenvolvimento nativo para garantir que os aplicativos&#xD;
+móveis sejam responsivos, rápidos e proporcionem uma experiência agradável ao usuário. Trabalha em colaboração com&#xD;
+designers e desenvolvedores backend para integrar serviços e funcionalidades.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BOkNel8ZcfXVfxeEtj3GMg" name="desenvolvedor_frontend_web,_j6h_LHlKEe-qo_w2p3QS1w" guid="-BOkNel8ZcfXVfxeEtj3GMg">
+    <refinedDescription>O desenvolvedor frontend web é responsável por criar e manter a interface gráfica de aplicações web, assegurando que sejam&#xD;
+funcionais, rápidas e acessíveis. Utiliza HTML, CSS, JavaScript e frameworks modernos como React, Vue ou Angular para&#xD;
+desenvolver interfaces responsivas e dinâmicas. Também é responsável pela integração com APIs e pela otimização da&#xD;
+experiência de usuário em múltiplos dispositivos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-io3HsaoL1FwB-3td1iLB6A" name="designer_de_ux_e_ui,_j6h_LnlKEe-qo_w2p3QS1w" guid="-io3HsaoL1FwB-3td1iLB6A">
+    <refinedDescription>Desenvolve protótipos e realiza testes de usabilidade com o usuário.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-KEPlUfbtlwJT2UaZDUOuXw" name="especialisita_em_privacidade_e_segurana_dos_dados,_j6h_MHlKEe-qo_w2p3QS1w" guid="-KEPlUfbtlwJT2UaZDUOuXw">
+    <refinedDescription>O especialista em privacidade e segurança implementa políticas de proteção de dados e práticas de segurança, assegurando&#xD;
+que o projeto esteja em conformidade com legislações como GDPR, LGPD, HIPAA e outros. Além de realizar auditorias de&#xD;
+segurança, o profissional trabalha na implementação de controles de segurança e resposta a incidentes.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UAhjR_e6b1ZPhb05XhVW2Q" name="testador,_j6h_MnlKEe-qo_w2p3QS1w" guid="-UAhjR_e6b1ZPhb05XhVW2Q">
+    <refinedDescription>&lt;p>&#xD;
+    O testador realiza diversos tipos de testes no software, incluindo testes funcionais, de desempenho, e de segurança, a&#xD;
+    fim de identificar e relatar problemas antes da entrega ao cliente. Ele cria casos de teste, automatiza scripts de&#xD;
+    teste quando necessário, e trabalha em estreita colaboração com desenvolvedores e analistas de requisitos para garantir&#xD;
+    que o software esteja livre de bugs e em conformidade com os requisitos.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-31YOtQzvmG3WXTwJGwIfkQ" name="detalhar_requisitos,_rtUmAHlKEe-qo_w2p3QS1w" guid="-31YOtQzvmG3WXTwJGwIfkQ">
+    <refinedDescription>A tarefa de detalhamento de requisitos envolve a decomposição dos requisitos gerais do projeto em requisitos específicos e&#xD;
+mensuráveis. Esse detalhamento é essencial para garantir que todos os stakeholders tenham uma compreensão clara do que será&#xD;
+desenvolvido e como o sistema deverá funcionar. Além dos requisitos funcionais, é necessário incluir também os requisitos&#xD;
+não funcionais, como desempenho, segurança e usabilidade.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--NHV3FAFm7qzqPJlfNcYrA" name="elaborar_cronograma_da_sprint,_rtUmAXlKEe-qo_w2p3QS1w" guid="--NHV3FAFm7qzqPJlfNcYrA">
+    <refinedDescription>Planejar o trabalho a ser realizado durante a sprint, organizando as tarefas com base na prioridade e no esforço&#xD;
+necessário. O cronograma da sprint ajuda a manter o ritmo de desenvolvimento.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VVBVZ-5z4i9akpmY-9WmsQ" name="analista_de_requisitos,_rtUmAnlKEe-qo_w2p3QS1w" guid="-VVBVZ-5z4i9akpmY-9WmsQ">
+    <refinedDescription>O analista de requisitos atua como ponte entre os stakeholders e a equipe técnica. Ele coleta as necessidades e&#xD;
+expectativas do cliente, traduzindo-as em requisitos claros e detalhados que orientam o desenvolvimento do sistema. Seu&#xD;
+trabalho envolve realizar entrevistas, reuniões, e elaborar documentos que descrevem o comportamento e funcionalidades do&#xD;
+software.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-sRjwhC1XxZ98X3OdmXs3pg" name="gerente_de_projeto,_rtUmBHlKEe-qo_w2p3QS1w" guid="-sRjwhC1XxZ98X3OdmXs3pg">
+    <refinedDescription>O gerente de projeto lidera a equipe na execução das tarefas do projeto, assegurando que todos os prazos, custos e escopo&#xD;
+sejam cumpridos. Ele gerencia os cronogramas, riscos e recursos, além de ser o principal ponto de contato com os&#xD;
+stakeholders. O gerente também é responsável por garantir que a equipe tenha um ambiente de trabalho produtivo e que os&#xD;
+obstáculos sejam resolvidos rapidamente.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QJ4Q-uglxjoM22vHbNjlAg" name="administrador_de_banco_de_dados,_rtUmBnlKEe-qo_w2p3QS1w" guid="-QJ4Q-uglxjoM22vHbNjlAg">
+    <refinedDescription>O DBA gerencia a estrutura de dados para garantir que os sistemas estejam seguros, eficientes e bem organizados. Ele é&#xD;
+responsável por realizar backups, otimizar o desempenho, configurar sistemas de alta disponibilidade, além de definir&#xD;
+políticas de segurança para o acesso aos dados. Trabalha em colaboração com equipes de desenvolvimento e infraestrutura&#xD;
+para garantir a integridade e disponibilidade das informações.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-KvLc1iolWVlOY5KPzBsz9g" name="desenvolvedor_backend,_rtUmCHlKEe-qo_w2p3QS1w" guid="-KvLc1iolWVlOY5KPzBsz9g">
+    <refinedDescription>O desenvolvedor backend é responsável pela implementação da lógica do servidor, integração com bancos de dados, APIs e&#xD;
+segurança de sistemas. Ele projeta e implementa a arquitetura de dados e serviços, garantindo que o backend seja eficiente,&#xD;
+seguro e escalável. O desenvolvedor backend também colabora com equipes frontend para garantir que os dados sejam&#xD;
+apresentados adequadamente aos usuários.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-DVUwPZVsiptfo1OxQwW9tw" name="desenvolvedor_frontend_mobile,_rtUmCnlKEe-qo_w2p3QS1w" guid="-DVUwPZVsiptfo1OxQwW9tw">
+    <refinedDescription>O desenvolvedor frontend mobile cria interfaces para aplicativos móveis em diversas plataformas, como Android e iOS. Ele&#xD;
+utiliza frameworks e ferramentas como React Native, Flutter, ou desenvolvimento nativo para garantir que os aplicativos&#xD;
+móveis sejam responsivos, rápidos e proporcionem uma experiência agradável ao usuário. Trabalha em colaboração com&#xD;
+designers e desenvolvedores backend para integrar serviços e funcionalidades.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-90WLMwN3Ulj_AjHY82g52g" name="desenvolvedor_frontend_web,_rtUmDHlKEe-qo_w2p3QS1w" guid="-90WLMwN3Ulj_AjHY82g52g">
+    <refinedDescription>O desenvolvedor frontend web é responsável por criar e manter a interface gráfica de aplicações web, assegurando que sejam&#xD;
+funcionais, rápidas e acessíveis. Utiliza HTML, CSS, JavaScript e frameworks modernos como React, Vue ou Angular para&#xD;
+desenvolver interfaces responsivas e dinâmicas. Também é responsável pela integração com APIs e pela otimização da&#xD;
+experiência de usuário em múltiplos dispositivos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-02JAp33AIRa-VdbFLTDbnQ" name="designer_de_ux_e_ui,_rtUmDnlKEe-qo_w2p3QS1w" guid="-02JAp33AIRa-VdbFLTDbnQ">
+    <refinedDescription>Desenvolve protótipos e realiza testes de usabilidade com o usuário.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cETylZ0m4acjlNZa2QhIaQ" name="especialisita_em_privacidade_e_segurana_dos_dados,_rtUmEHlKEe-qo_w2p3QS1w" guid="-cETylZ0m4acjlNZa2QhIaQ">
+    <refinedDescription>O especialista em privacidade e segurança implementa políticas de proteção de dados e práticas de segurança, assegurando&#xD;
+que o projeto esteja em conformidade com legislações como GDPR, LGPD, HIPAA e outros. Além de realizar auditorias de&#xD;
+segurança, o profissional trabalha na implementação de controles de segurança e resposta a incidentes.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UDoNQMcj-cv_aVSU0KGNAg" name="testador,_rtUmEnlKEe-qo_w2p3QS1w" guid="-UDoNQMcj-cv_aVSU0KGNAg">
+    <refinedDescription>&lt;p>&#xD;
+    O testador realiza diversos tipos de testes no software, incluindo testes funcionais, de desempenho, e de segurança, a&#xD;
+    fim de identificar e relatar problemas antes da entrega ao cliente. Ele cria casos de teste, automatiza scripts de&#xD;
+    teste quando necessário, e trabalha em estreita colaboração com desenvolvedores e analistas de requisitos para garantir&#xD;
+    que o software esteja livre de bugs e em conformidade com os requisitos.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-We4mhVM7ku_OzoZVn5-W8Q" name="atualizar_kanban,_xmOTEHlKEe-qo_w2p3QS1w" guid="-We4mhVM7ku_OzoZVn5-W8Q">
+    <refinedDescription>Esta tarefa envolve a atualização contínua do quadro Kanban, refletindo o progresso das tarefas e garantindo que a equipe&#xD;
+tenha uma visão clara do fluxo de trabalho. O responsável deve mover as tarefas pelas colunas apropriadas (por exemplo, &quot;A&#xD;
+fazer&quot;, &quot;Em progresso&quot;, &quot;Concluído&quot;) e ajustar prazos ou prioridades quando necessário. É fundamental para garantir que o&#xD;
+time esteja alinhado com os status das entregas e prazos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mea8A26jJsGheU9WXQ-PiA" name="desenvolver_backend,_xmOTEXlKEe-qo_w2p3QS1w" guid="-mea8A26jJsGheU9WXQ-PiA">
+    <refinedDescription>Desenvolver o sistema responsável pela manipulação de dados, regras de negócio, segurança, e comunicação com o banco de&#xD;
+dados e o front end. Esta camada atua como o cérebro do sistema.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-eYF3IDSoNTBiSVDoEtUjpA" name="desenvolver_banco_de_dados,_xmOTEnlKEe-qo_w2p3QS1w" guid="-eYF3IDSoNTBiSVDoEtUjpA">
+    <refinedDescription>Esta tarefa envolve a construção prática do banco de dados, utilizando as definições feitas anteriormente para criar&#xD;
+tabelas, relacionamentos e garantir a integridade dos dados. Além disso, inclui a realização de testes para assegurar que o&#xD;
+banco de dados funcione de maneira eficiente e atenda às necessidades do sistema.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-p8t8ea_rHeBJZaNO_X9Z1g" name="desenvolver_front_end_web,_xmOTE3lKEe-qo_w2p3QS1w" guid="-p8t8ea_rHeBJZaNO_X9Z1g">
+    <refinedDescription>Criar a interface web que permite aos usuários interagir com o sistema através de navegadores. A interface deve ser&#xD;
+responsiva, fácil de usar e funcionar bem em diversos dispositivos e tamanhos de tela.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9fXypGeflLwNizGjjHTRyw" name="desenvolver_visual_do_prototipo,_xmOTFHlKEe-qo_w2p3QS1w" guid="-9fXypGeflLwNizGjjHTRyw">
+    <refinedDescription>O objetivo desta tarefa é que o designer, a partir do protótipo de alta fidelidade previamente criado, refine e finalize&#xD;
+todos os aspectos visuais e de usabilidade da interface. Isso inclui o aprimoramento dos detalhes de design, a criação de&#xD;
+elementos visuais definitivos, e a preparação de todos os assets gráficos que serão usados pelos desenvolvedores. O foco&#xD;
+está em garantir que o produto final atenda aos padrões de design, acessibilidade e funcionalidade esperados pelos&#xD;
+stakeholders, e esteja pronto para implementação.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-EnJJbP_o_xRTkh-UH4lcWg" name="implementar_regras_de_negocio,_xmOTFXlKEe-qo_w2p3QS1w" guid="-EnJJbP_o_xRTkh-UH4lcWg">
+    <refinedDescription>&lt;p>&#xD;
+    Traduzir as regras de negócio identificadas na fase de requisitos para a lógica de programação. Essas regras são o&#xD;
+    núcleo do sistema, garantindo que ele se comporte de acordo com os objetivos do cliente.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-teObg781263dKqTJGjI6Ig" name="integrar_api,_xmOTFnlKEe-qo_w2p3QS1w" guid="-teObg781263dKqTJGjI6Ig">
+    <refinedDescription>Esta tarefa envolve projetar, configurar e testar a API que será usada para permitir que o front end e outros serviços&#xD;
+interajam com o sistema de back end. A API deve ser segura, escalável e eficiente, suportando operações como leitura,&#xD;
+criação, atualização e remoção de dados.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-u98ZsK5txphC_j8hSxM0fg" name="integrar_front_end_e_back_end,_xmOTF3lKEe-qo_w2p3QS1w" guid="-u98ZsK5txphC_j8hSxM0fg">
+    <refinedDescription>Esta tarefa envolve conectar a interface de usuário desenvolvida no front end com a API do sistema, garantindo que as&#xD;
+requisições enviadas pelo front end sejam corretamente processadas pelo back end e que as respostas sejam exibidas&#xD;
+adequadamente na interface.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8qGvH2LqF-XRYWX1UKSZxA" name="realizar_reuniao_diaria,_xmOTGHlKEe-qo_w2p3QS1w" guid="-8qGvH2LqF-XRYWX1UKSZxA">
+    <refinedDescription>Realizar reuniões rápidas de 10 a 15 minutos onde cada membro da equipe compartilha o que fez no dia anterior, o que&#xD;
+pretende fazer no dia atual, e se existe algum bloqueio que precisa ser resolvido.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dFhVbXUHLuC9LR6rG8M7Dg" name="testar_integracao_de_api,_xmOTGXlKEe-qo_w2p3QS1w" guid="-dFhVbXUHLuC9LR6rG8M7Dg">
+    <refinedDescription>Testar os endpoints das APIs para garantir que estão corretamente implementados e que fornecem os dados esperados ao serem&#xD;
+acessados pelo front-end e outras partes do sistema.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-juwENJdtwhPVaafzgA6P2Q" name="testar_integracao_front_e_back_end,_xmOTGnlKEe-qo_w2p3QS1w" guid="-juwENJdtwhPVaafzgA6P2Q">
+    <refinedDescription>Testar o sistema completo para verificar se as interfaces de usuário (front end) estão funcionando corretamente com a&#xD;
+lógica de negócio (back end), garantindo uma comunicação adequada e sem falhas.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-qoBIleS8B2-F1sP3msuFwg" name="testar_usabilidade,_xmOTG3lKEe-qo_w2p3QS1w" guid="-qoBIleS8B2-F1sP3msuFwg">
+    <refinedDescription>Avaliar a interface e a experiência do usuário para garantir que o sistema seja acessível, fácil de navegar e que atenda às&#xD;
+expectativas dos usuários finais em termos de usabilidade.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FLsyy-z49rTwLE12Cmvyzg" name="administrador_de_banco_de_dados,_xmOTHHlKEe-qo_w2p3QS1w" guid="-FLsyy-z49rTwLE12Cmvyzg">
+    <refinedDescription>O DBA gerencia a estrutura de dados para garantir que os sistemas estejam seguros, eficientes e bem organizados. Ele é&#xD;
+responsável por realizar backups, otimizar o desempenho, configurar sistemas de alta disponibilidade, além de definir&#xD;
+políticas de segurança para o acesso aos dados. Trabalha em colaboração com equipes de desenvolvimento e infraestrutura&#xD;
+para garantir a integridade e disponibilidade das informações.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-yapHd6A3bRox_snh3fT5bg" name="analista_de_requisitos,_xmOTHnlKEe-qo_w2p3QS1w" guid="-yapHd6A3bRox_snh3fT5bg">
+    <refinedDescription>O analista de requisitos atua como ponte entre os stakeholders e a equipe técnica. Ele coleta as necessidades e&#xD;
+expectativas do cliente, traduzindo-as em requisitos claros e detalhados que orientam o desenvolvimento do sistema. Seu&#xD;
+trabalho envolve realizar entrevistas, reuniões, e elaborar documentos que descrevem o comportamento e funcionalidades do&#xD;
+software.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-qTsxg2k0JWvFgG9iFksSIg" name="desenvolvedor_backend,_xmOTIHlKEe-qo_w2p3QS1w" guid="-qTsxg2k0JWvFgG9iFksSIg">
+    <refinedDescription>O desenvolvedor backend é responsável pela implementação da lógica do servidor, integração com bancos de dados, APIs e&#xD;
+segurança de sistemas. Ele projeta e implementa a arquitetura de dados e serviços, garantindo que o backend seja eficiente,&#xD;
+seguro e escalável. O desenvolvedor backend também colabora com equipes frontend para garantir que os dados sejam&#xD;
+apresentados adequadamente aos usuários.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FDesI6B3bggX-dxXIT72ZA" name="desenvolvedor_frontend_mobile,_xmOTInlKEe-qo_w2p3QS1w" guid="-FDesI6B3bggX-dxXIT72ZA">
+    <refinedDescription>O desenvolvedor frontend mobile cria interfaces para aplicativos móveis em diversas plataformas, como Android e iOS. Ele&#xD;
+utiliza frameworks e ferramentas como React Native, Flutter, ou desenvolvimento nativo para garantir que os aplicativos&#xD;
+móveis sejam responsivos, rápidos e proporcionem uma experiência agradável ao usuário. Trabalha em colaboração com&#xD;
+designers e desenvolvedores backend para integrar serviços e funcionalidades.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FO1k_TlZDszl5PnVHe-ugQ" name="desenvolvedor_frontend_web,_xmOTJHlKEe-qo_w2p3QS1w" guid="-FO1k_TlZDszl5PnVHe-ugQ">
+    <refinedDescription>O desenvolvedor frontend web é responsável por criar e manter a interface gráfica de aplicações web, assegurando que sejam&#xD;
+funcionais, rápidas e acessíveis. Utiliza HTML, CSS, JavaScript e frameworks modernos como React, Vue ou Angular para&#xD;
+desenvolver interfaces responsivas e dinâmicas. Também é responsável pela integração com APIs e pela otimização da&#xD;
+experiência de usuário em múltiplos dispositivos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-DHJ1kGAp9l6awLTHzchYwA" name="designer_de_ux_e_ui,_xmOTJnlKEe-qo_w2p3QS1w" guid="-DHJ1kGAp9l6awLTHzchYwA">
+    <refinedDescription>Desenvolve protótipos e realiza testes de usabilidade com o usuário.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Is9Xt7Lpy-QgglJjOgH3lw" name="especialisita_em_privacidade_e_segurana_dos_dados,_xmOTKHlKEe-qo_w2p3QS1w" guid="-Is9Xt7Lpy-QgglJjOgH3lw">
+    <refinedDescription>O especialista em privacidade e segurança implementa políticas de proteção de dados e práticas de segurança, assegurando&#xD;
+que o projeto esteja em conformidade com legislações como GDPR, LGPD, HIPAA e outros. Além de realizar auditorias de&#xD;
+segurança, o profissional trabalha na implementação de controles de segurança e resposta a incidentes.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UP0eey8QUBlZNrDcC4FeEw" name="gerente_de_projeto,_xmOTKnlKEe-qo_w2p3QS1w" guid="-UP0eey8QUBlZNrDcC4FeEw">
+    <refinedDescription>O gerente de projeto lidera a equipe na execução das tarefas do projeto, assegurando que todos os prazos, custos e escopo&#xD;
+sejam cumpridos. Ele gerencia os cronogramas, riscos e recursos, além de ser o principal ponto de contato com os&#xD;
+stakeholders. O gerente também é responsável por garantir que a equipe tenha um ambiente de trabalho produtivo e que os&#xD;
+obstáculos sejam resolvidos rapidamente.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-j8s5Abzy2M0KiCAp-zdh2g" name="testador,_xmOTLHlKEe-qo_w2p3QS1w" guid="-j8s5Abzy2M0KiCAp-zdh2g">
+    <refinedDescription>&lt;p>&#xD;
+    O testador realiza diversos tipos de testes no software, incluindo testes funcionais, de desempenho, e de segurança, a&#xD;
+    fim de identificar e relatar problemas antes da entrega ao cliente. Ele cria casos de teste, automatiza scripts de&#xD;
+    teste quando necessário, e trabalha em estreita colaboração com desenvolvedores e analistas de requisitos para garantir&#xD;
+    que o software esteja livre de bugs e em conformidade com os requisitos.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NdpMwjKabCeBkSUsrmhA_Q" name="governo,_xmOTLnlKEe-qo_w2p3QS1w" guid="-NdpMwjKabCeBkSUsrmhA_Q">
+    <refinedDescription>O cliente ou representante do governo define os objetivos e expectativas do projeto, fornecendo feedback e aprovações nas&#xD;
+entregas. Ele é responsável por garantir que o produto final esteja de acordo com as necessidades da organização ou das&#xD;
+regulamentações governamentais e atua como um facilitador entre a equipe do projeto e a alta direção ou outras partes&#xD;
+interessadas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Tq8tqwEcyFOJ_aVRDbFR-w" name="teste_do_cliente,_1JYQwXlKEe-qo_w2p3QS1w" guid="-Tq8tqwEcyFOJ_aVRDbFR-w">
+    <refinedDescription>Realizar uma série de testes com o cliente ou stakeholders para verificar se o sistema atende às suas expectativas e&#xD;
+requisitos. Qualquer ajuste necessário deve ser identificado e implementado.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-M38FXcARhrVOfvzm4PCBOA" name="gerente_de_projeto,_1JY30HlKEe-qo_w2p3QS1w" guid="-M38FXcARhrVOfvzm4PCBOA">
+    <refinedDescription>O gerente de projeto lidera a equipe na execução das tarefas do projeto, assegurando que todos os prazos, custos e escopo&#xD;
+sejam cumpridos. Ele gerencia os cronogramas, riscos e recursos, além de ser o principal ponto de contato com os&#xD;
+stakeholders. O gerente também é responsável por garantir que a equipe tenha um ambiente de trabalho produtivo e que os&#xD;
+obstáculos sejam resolvidos rapidamente.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GRP0KxsrdQThJOW11A1B6A" name="governo,_1JY30nlKEe-qo_w2p3QS1w" guid="-GRP0KxsrdQThJOW11A1B6A">
+    <refinedDescription>O cliente ou representante do governo define os objetivos e expectativas do projeto, fornecendo feedback e aprovações nas&#xD;
+entregas. Ele é responsável por garantir que o produto final esteja de acordo com as necessidades da organização ou das&#xD;
+regulamentações governamentais e atua como um facilitador entre a equipe do projeto e a alta direção ou outras partes&#xD;
+interessadas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-0ziHcAvjCqdDY6SdJWcZ9w" name="realizar_reuniao_de_review,_4aSn4HlKEe-qo_w2p3QS1w" guid="-0ziHcAvjCqdDY6SdJWcZ9w">
+    <refinedDescription>A reunião de review é realizada ao final de cada sprint, com o objetivo de apresentar o que foi desenvolvido, discutir os&#xD;
+desafios enfrentados, validar os incrementos com os stakeholders e receber feedback para o aperfeiçoamento contínuo do&#xD;
+projeto. O foco é garantir que o time de desenvolvimento, o Product Owner e os stakeholders estejam alinhados quanto ao&#xD;
+progresso e determinar quaisquer ajustes necessários para as sprints seguintes. Durante essa reunião, o time apresenta os&#xD;
+incrementos e discute possíveis melhorias ou mudanças de direção.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uy2aXsvb0gQ-WI_oys_eIA" name="revisar_diagramas_da_uml,_4aSn4XlKEe-qo_w2p3QS1w" guid="-uy2aXsvb0gQ-WI_oys_eIA">
+    <refinedDescription>Verificar se os diagramas UML, como casos de uso, classes e componentes, estão corretos, completos e refletem corretamente&#xD;
+a arquitetura e funcionalidades do sistema após as sprints&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SaR3EGU2wu7FZtiZ-7wp3A" name="administrador_de_banco_de_dados,_4aSn4nlKEe-qo_w2p3QS1w" guid="-SaR3EGU2wu7FZtiZ-7wp3A">
+    <refinedDescription>O DBA gerencia a estrutura de dados para garantir que os sistemas estejam seguros, eficientes e bem organizados. Ele é&#xD;
+responsável por realizar backups, otimizar o desempenho, configurar sistemas de alta disponibilidade, além de definir&#xD;
+políticas de segurança para o acesso aos dados. Trabalha em colaboração com equipes de desenvolvimento e infraestrutura&#xD;
+para garantir a integridade e disponibilidade das informações.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-X6KWMJjult8HsXgCR-6b4w" name="analista_de_requisitos,_4aSn5HlKEe-qo_w2p3QS1w" guid="-X6KWMJjult8HsXgCR-6b4w">
+    <refinedDescription>O analista de requisitos atua como ponte entre os stakeholders e a equipe técnica. Ele coleta as necessidades e&#xD;
+expectativas do cliente, traduzindo-as em requisitos claros e detalhados que orientam o desenvolvimento do sistema. Seu&#xD;
+trabalho envolve realizar entrevistas, reuniões, e elaborar documentos que descrevem o comportamento e funcionalidades do&#xD;
+software.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gZ49DzX4p30jcoQud_xwDA" name="desenvolvedor_backend,_4aSn5nlKEe-qo_w2p3QS1w" guid="-gZ49DzX4p30jcoQud_xwDA">
+    <refinedDescription>O desenvolvedor backend é responsável pela implementação da lógica do servidor, integração com bancos de dados, APIs e&#xD;
+segurança de sistemas. Ele projeta e implementa a arquitetura de dados e serviços, garantindo que o backend seja eficiente,&#xD;
+seguro e escalável. O desenvolvedor backend também colabora com equipes frontend para garantir que os dados sejam&#xD;
+apresentados adequadamente aos usuários.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NQFJxJYUaE4sfNb1echo1A" name="desenvolvedor_frontend_mobile,_4aSn6HlKEe-qo_w2p3QS1w" guid="-NQFJxJYUaE4sfNb1echo1A">
+    <refinedDescription>O desenvolvedor frontend mobile cria interfaces para aplicativos móveis em diversas plataformas, como Android e iOS. Ele&#xD;
+utiliza frameworks e ferramentas como React Native, Flutter, ou desenvolvimento nativo para garantir que os aplicativos&#xD;
+móveis sejam responsivos, rápidos e proporcionem uma experiência agradável ao usuário. Trabalha em colaboração com&#xD;
+designers e desenvolvedores backend para integrar serviços e funcionalidades.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aZQ6b0lzmamm83vL43sLjg" name="desenvolvedor_frontend_web,_4aSn6nlKEe-qo_w2p3QS1w" guid="-aZQ6b0lzmamm83vL43sLjg">
+    <refinedDescription>O desenvolvedor frontend web é responsável por criar e manter a interface gráfica de aplicações web, assegurando que sejam&#xD;
+funcionais, rápidas e acessíveis. Utiliza HTML, CSS, JavaScript e frameworks modernos como React, Vue ou Angular para&#xD;
+desenvolver interfaces responsivas e dinâmicas. Também é responsável pela integração com APIs e pela otimização da&#xD;
+experiência de usuário em múltiplos dispositivos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GtAcgbuvdXYQ_K6mFACNWw" name="designer_de_ux_e_ui,_4aSn7HlKEe-qo_w2p3QS1w" guid="-GtAcgbuvdXYQ_K6mFACNWw">
+    <refinedDescription>Desenvolve protótipos e realiza testes de usabilidade com o usuário.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-sw4LY90vhK-OiHD6CFFl1g" name="especialisita_em_privacidade_e_segurana_dos_dados,_4aSn7nlKEe-qo_w2p3QS1w" guid="-sw4LY90vhK-OiHD6CFFl1g">
+    <refinedDescription>O especialista em privacidade e segurança implementa políticas de proteção de dados e práticas de segurança, assegurando&#xD;
+que o projeto esteja em conformidade com legislações como GDPR, LGPD, HIPAA e outros. Além de realizar auditorias de&#xD;
+segurança, o profissional trabalha na implementação de controles de segurança e resposta a incidentes.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-pVioqkNvF8dZ8nPAKylfaw" name="gerente_de_projeto,_4aSn8HlKEe-qo_w2p3QS1w" guid="-pVioqkNvF8dZ8nPAKylfaw">
+    <refinedDescription>O gerente de projeto lidera a equipe na execução das tarefas do projeto, assegurando que todos os prazos, custos e escopo&#xD;
+sejam cumpridos. Ele gerencia os cronogramas, riscos e recursos, além de ser o principal ponto de contato com os&#xD;
+stakeholders. O gerente também é responsável por garantir que a equipe tenha um ambiente de trabalho produtivo e que os&#xD;
+obstáculos sejam resolvidos rapidamente.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ujg_L00WMu1VPvgKN8URJg" name="testador,_4aSn8nlKEe-qo_w2p3QS1w" guid="-ujg_L00WMu1VPvgKN8URJg">
+    <refinedDescription>&lt;p>&#xD;
+    O testador realiza diversos tipos de testes no software, incluindo testes funcionais, de desempenho, e de segurança, a&#xD;
+    fim de identificar e relatar problemas antes da entrega ao cliente. Ele cria casos de teste, automatiza scripts de&#xD;
+    teste quando necessário, e trabalha em estreita colaboração com desenvolvedores e analistas de requisitos para garantir&#xD;
+    que o software esteja livre de bugs e em conformidade com os requisitos.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5Z0kv2yHzYFhxz3yP0-ojg" name="analista_de_requisitos,_90098nlKEe-qo_w2p3QS1w" guid="-5Z0kv2yHzYFhxz3yP0-ojg">
+    <refinedDescription>O analista de requisitos atua como ponte entre os stakeholders e a equipe técnica. Ele coleta as necessidades e&#xD;
+expectativas do cliente, traduzindo-as em requisitos claros e detalhados que orientam o desenvolvimento do sistema. Seu&#xD;
+trabalho envolve realizar entrevistas, reuniões, e elaborar documentos que descrevem o comportamento e funcionalidades do&#xD;
+software.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-KiPtw6ZgSuveZMCY-IP21w" name="gerente_de_projeto,_90099HlKEe-qo_w2p3QS1w" guid="-KiPtw6ZgSuveZMCY-IP21w">
+    <refinedDescription>O gerente de projeto lidera a equipe na execução das tarefas do projeto, assegurando que todos os prazos, custos e escopo&#xD;
+sejam cumpridos. Ele gerencia os cronogramas, riscos e recursos, além de ser o principal ponto de contato com os&#xD;
+stakeholders. O gerente também é responsável por garantir que a equipe tenha um ambiente de trabalho produtivo e que os&#xD;
+obstáculos sejam resolvidos rapidamente.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8couGMV0DBWaWP8qvae_ng" name="desenvolvedor_backend,_90099nlKEe-qo_w2p3QS1w" guid="-8couGMV0DBWaWP8qvae_ng">
+    <refinedDescription>O desenvolvedor backend é responsável pela implementação da lógica do servidor, integração com bancos de dados, APIs e&#xD;
+segurança de sistemas. Ele projeta e implementa a arquitetura de dados e serviços, garantindo que o backend seja eficiente,&#xD;
+seguro e escalável. O desenvolvedor backend também colabora com equipes frontend para garantir que os dados sejam&#xD;
+apresentados adequadamente aos usuários.&lt;br />&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-todSJbrEm1bJgn3zphoFKQ" name="desenvolvedor_frontend_web,_9009-HlKEe-qo_w2p3QS1w" guid="-todSJbrEm1bJgn3zphoFKQ">
+    <refinedDescription>O desenvolvedor frontend web é responsável por criar e manter a interface gráfica de aplicações web, assegurando que sejam&#xD;
+funcionais, rápidas e acessíveis. Utiliza HTML, CSS, JavaScript e frameworks modernos como React, Vue ou Angular para&#xD;
+desenvolver interfaces responsivas e dinâmicas. Também é responsável pela integração com APIs e pela otimização da&#xD;
+experiência de usuário em múltiplos dispositivos.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BH2Hr75nhQ8Rl7dnjzQ5hQ" name="governo,_9009-nlKEe-qo_w2p3QS1w" guid="-BH2Hr75nhQ8Rl7dnjzQ5hQ">
+    <refinedDescription>O cliente ou representante do governo define os objetivos e expectativas do projeto, fornecendo feedback e aprovações nas&#xD;
+entregas. Ele é responsável por garantir que o produto final esteja de acordo com as necessidades da organização ou das&#xD;
+regulamentações governamentais e atua como um facilitador entre a equipe do projeto e a alta direção ou outras partes&#xD;
+interessadas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

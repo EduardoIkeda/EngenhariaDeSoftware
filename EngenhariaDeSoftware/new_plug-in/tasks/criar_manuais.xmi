@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mPFJTdic1HcG25v4i9EmXA" name="criar_manuais,_SFdWoHksEe-W9N2oXw6bKg" guid="-mPFJTdic1HcG25v4i9EmXA">
+  <sections xmi:id="_QAqdQHlAEe-1fttRZXDQlQ" name="Identificação dos usuários do sistema" guid="_QAqdQHlAEe-1fttRZXDQlQ"/>
+  <sections xmi:id="_R9ZPsHlAEe-1fttRZXDQlQ" name="Criação de manuais para cada tipo de usuário" guid="_R9ZPsHlAEe-1fttRZXDQlQ"/>
+</org.eclipse.epf.uma:TaskDescription>
